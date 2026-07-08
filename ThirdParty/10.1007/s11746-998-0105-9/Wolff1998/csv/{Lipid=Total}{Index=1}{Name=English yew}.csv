@@ -1,0 +1,20 @@
+﻿DOI,Index,Date,Genus,Species,Name,Lipid,Method,Label,FattyAcid,Value
+10.1007/s11746-998-0105-9,1,1998-11-01,Taxus,Taxus baccata,English yew,Total,Experimental,Myristic,"{""Carbon"":14,""Indices"":[]}",EPSILON
+10.1007/s11746-998-0105-9,1,1998-11-01,Taxus,Taxus baccata,English yew,Total,Experimental,Palmitic,"{""Carbon"":16,""Indices"":[]}",3.03
+10.1007/s11746-998-0105-9,1,1998-11-01,Taxus,Taxus baccata,English yew,Total,Experimental,Palmitoleic,"{""Carbon"":16,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.06
+10.1007/s11746-998-0105-9,1,1998-11-01,Taxus,Taxus baccata,English yew,Total,Experimental,Heptadecanoic,"{""Carbon"":17,""Indices"":[]}",0.05
+10.1007/s11746-998-0105-9,1,1998-11-01,Taxus,Taxus baccata,English yew,Total,Experimental,Stearic,"{""Carbon"":18,""Indices"":[]}",2.47
+10.1007/s11746-998-0105-9,1,1998-11-01,Taxus,Taxus baccata,English yew,Total,Experimental,Oleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",54.78
+10.1007/s11746-998-0105-9,1,1998-11-01,Taxus,Taxus baccata,English yew,Total,Experimental,Vaccenic,"{""Carbon"":18,""Indices"":[{""Index"":11,""Triple"":false,""Parity"":false}]}",0.33
+10.1007/s11746-998-0105-9,1,1998-11-01,Taxus,Taxus baccata,English yew,Total,Experimental,Linoleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",23.08
+10.1007/s11746-998-0105-9,1,1998-11-01,Taxus,Taxus baccata,English yew,Total,Experimental,α-Linolenic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false},{""Index"":15,""Triple"":false,""Parity"":false}]}",1.27
+10.1007/s11746-998-0105-9,1,1998-11-01,Taxus,Taxus baccata,English yew,Total,Experimental,Arachidic,"{""Carbon"":20,""Indices"":[]}",0.06
+10.1007/s11746-998-0105-9,1,1998-11-01,Taxus,Taxus baccata,English yew,Total,Experimental,Gondoic,"{""Carbon"":20,""Indices"":[{""Index"":11,""Triple"":false,""Parity"":false}]}",1.33
+10.1007/s11746-998-0105-9,1,1998-11-01,Taxus,Taxus baccata,English yew,Total,Experimental,"Eicosadienoic (11,14)","{""Carbon"":20,""Indices"":[{""Index"":11,""Triple"":false,""Parity"":false},{""Index"":14,""Triple"":false,""Parity"":false}]}",0.6
+10.1007/s11746-998-0105-9,1,1998-11-01,Taxus,Taxus baccata,English yew,Total,Experimental,Taxoleic,"{""Carbon"":18,""Indices"":[{""Index"":5,""Triple"":false,""Parity"":false},{""Index"":9,""Triple"":false,""Parity"":false}]}",9.5
+10.1007/s11746-998-0105-9,1,1998-11-01,Taxus,Taxus baccata,English yew,Total,Experimental,Pinolenic,"{""Carbon"":18,""Indices"":[{""Index"":5,""Triple"":false,""Parity"":false},{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",0.33
+10.1007/s11746-998-0105-9,1,1998-11-01,Taxus,Taxus baccata,English yew,Total,Experimental,"Octadecatetraenoic (5,9,12,15)","{""Carbon"":18,""Indices"":[{""Index"":5,""Triple"":false,""Parity"":false},{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false},{""Index"":15,""Triple"":false,""Parity"":false}]}",EPSILON
+10.1007/s11746-998-0105-9,1,1998-11-01,Taxus,Taxus baccata,English yew,Total,Experimental,"Eicosadienoic (5,11)","{""Carbon"":20,""Indices"":[{""Index"":5,""Triple"":false,""Parity"":false},{""Index"":11,""Triple"":false,""Parity"":false}]}",0.27
+10.1007/s11746-998-0105-9,1,1998-11-01,Taxus,Taxus baccata,English yew,Total,Experimental,Sciadonic,"{""Carbon"":20,""Indices"":[{""Index"":5,""Triple"":false,""Parity"":false},{""Index"":11,""Triple"":false,""Parity"":false},{""Index"":14,""Triple"":false,""Parity"":false}]}",1.64
+10.1007/s11746-998-0105-9,1,1998-11-01,Taxus,Taxus baccata,English yew,Total,Experimental,Juniperonic,"{""Carbon"":20,""Indices"":[{""Index"":5,""Triple"":false,""Parity"":false},{""Index"":11,""Triple"":false,""Parity"":false},{""Index"":14,""Triple"":false,""Parity"":false},{""Index"":17,""Triple"":false,""Parity"":false}]}",0.28
+10.1007/s11746-998-0105-9,1,1998-11-01,Taxus,Taxus baccata,English yew,Total,Experimental,Others,,0.89

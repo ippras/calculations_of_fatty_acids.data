@@ -1,0 +1,29 @@
+﻿DOI,Index,Date,Group,Genus,Species,Name,Lipid,Label,FattyAcid,Value
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,Caprylic,"{""Carbon"": 8, ""Indices"": []}",
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,Capric,"{""Carbon"": 10, ""Indices"": []}",
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,Lauric,"{""Carbon"": 12, ""Indices"": []}",
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,Myristic,"{""Carbon"": 14, ""Indices"": []}",0.1
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",10.4
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,Stearic,"{""Carbon"": 18, ""Indices"": []}",3.9
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,Arachidic,"{""Carbon"": 20, ""Indices"": []}",0.3
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,Behenic,"{""Carbon"": 22, ""Indices"": []}",0.1
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.4
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,Hypogeic,"{""Carbon"": 16, ""Indices"": [{""Index"": 7, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,(10Z)-heptadec-10-enoic,"{""Carbon"": 17, ""Indices"": [{""Index"": 10, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,cis-Vaccenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,Paullinic,"{""Carbon"": 20, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,Nervonic,"{""Carbon"": 24, ""Indices"": [{""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",74.0
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",10.0
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,γ-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,Stearidonic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,Dihomolinoleic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}, {""Index"": 14, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,Dihomo-γ-linolenic,"{""Carbon"": 20, ""Indices"": [{""Index"": 8, ""Triple"": false, ""Parity"": false}, {""Index"": 11, ""Triple"": false, ""Parity"": false}, {""Index"": 14, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,Arachidonic,"{""Carbon"": 20, ""Indices"": [{""Index"": 5, ""Triple"": false, ""Parity"": false}, {""Index"": 8, ""Triple"": false, ""Parity"": false}, {""Index"": 11, ""Triple"": false, ""Parity"": false}, {""Index"": 14, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,Eicosapentaenoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 5, ""Triple"": false, ""Parity"": false}, {""Index"": 8, ""Triple"": false, ""Parity"": false}, {""Index"": 11, ""Triple"": false, ""Parity"": false}, {""Index"": 14, ""Triple"": false, ""Parity"": false}, {""Index"": 17, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,"(13Z,16Z)-docosa-13,16-dienoic","{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}, {""Index"": 16, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,52,2007-07-07,LA + SFA,Juglans,Juglans regia,Walnut,Total,Adrenic,"{""Carbon"": 22, ""Indices"": [{""Index"": 7, ""Triple"": false, ""Parity"": false}, {""Index"": 10, ""Triple"": false, ""Parity"": false}, {""Index"": 13, ""Triple"": false, ""Parity"": false}, {""Index"": 16, ""Triple"": false, ""Parity"": false}]}",

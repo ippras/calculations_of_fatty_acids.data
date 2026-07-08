@@ -1,0 +1,29 @@
+﻿DOI,Index,Date,Group,Genus,Species,Name,Lipid,Label,FattyAcid,Value
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,Caprylic,"{""Carbon"": 8, ""Indices"": []}",
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,Capric,"{""Carbon"": 10, ""Indices"": []}",
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,Lauric,"{""Carbon"": 12, ""Indices"": []}",
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,Myristic,"{""Carbon"": 14, ""Indices"": []}",0.1
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",33.3
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,Stearic,"{""Carbon"": 18, ""Indices"": []}",10.9
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,Arachidic,"{""Carbon"": 20, ""Indices"": []}",0.2
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,Behenic,"{""Carbon"": 22, ""Indices"": []}",
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,Hypogeic,"{""Carbon"": 16, ""Indices"": [{""Index"": 7, ""Triple"": false, ""Parity"": false}]}",0.3
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,(10Z)-heptadec-10-enoic,"{""Carbon"": 17, ""Indices"": [{""Index"": 10, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",44.7
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,cis-Vaccenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,Paullinic,"{""Carbon"": 20, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,Nervonic,"{""Carbon"": 24, ""Indices"": [{""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",10.1
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.5
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,γ-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,Stearidonic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,Dihomolinoleic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}, {""Index"": 14, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,Dihomo-γ-linolenic,"{""Carbon"": 20, ""Indices"": [{""Index"": 8, ""Triple"": false, ""Parity"": false}, {""Index"": 11, ""Triple"": false, ""Parity"": false}, {""Index"": 14, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,Arachidonic,"{""Carbon"": 20, ""Indices"": [{""Index"": 5, ""Triple"": false, ""Parity"": false}, {""Index"": 8, ""Triple"": false, ""Parity"": false}, {""Index"": 11, ""Triple"": false, ""Parity"": false}, {""Index"": 14, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,Eicosapentaenoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 5, ""Triple"": false, ""Parity"": false}, {""Index"": 8, ""Triple"": false, ""Parity"": false}, {""Index"": 11, ""Triple"": false, ""Parity"": false}, {""Index"": 14, ""Triple"": false, ""Parity"": false}, {""Index"": 17, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,"(13Z,16Z)-docosa-13,16-dienoic","{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}, {""Index"": 16, ""Triple"": false, ""Parity"": false}]}",
+10.1002/ejlt.200700040,11,2007-07-07,PA,Canarium,Canarium ovatum,Pili nut,Total,Adrenic,"{""Carbon"": 22, ""Indices"": [{""Index"": 7, ""Triple"": false, ""Parity"": false}, {""Index"": 10, ""Triple"": false, ""Parity"": false}, {""Index"": 13, ""Triple"": false, ""Parity"": false}, {""Index"": 16, ""Triple"": false, ""Parity"": false}]}",
