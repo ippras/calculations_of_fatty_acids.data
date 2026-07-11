@@ -2,7 +2,7 @@
 (
     meta: {
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
-        "Date": "2024-11-12",
+        dates: ["2024-11-12"],
         "Description": "",
         "Name": "Polyscias{SN-2}",
         "Version": "0.0.3",

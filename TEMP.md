@@ -1,2 +1,3 @@
 - `        "Authors": "Giorgi Vladimirovich Kazakov;Roman Alexandrovich Sidorov",` => `        authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],`
-- `        "Date": "2023-05-19",` -> `        dates: ["2025-10-29"],`
+- `        "Date": "(\d{4}-\d{2}-\d{2})",` -> `        dates: ["$1"],`
+- `        "Description": "(.*)",` -> `        description: ["

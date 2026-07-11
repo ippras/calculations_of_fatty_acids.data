@@ -2,7 +2,7 @@
 (
     meta: {
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
-        "Date": "2025-10-31",
+        dates: ["2025-10-31"],
         "Description": "К-3675, ВИР 839, Россия",
         "Name": "К-3675",
         "Parameters": "",

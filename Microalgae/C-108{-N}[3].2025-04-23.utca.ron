@@ -2,7 +2,7 @@
 (
     meta: {
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
-        "Date": "2025-04-23",
+        dates: ["2025-04-23"],
         "Description": "ca 500 mcg TAG",
         "Name": "C-108{-N}",
         "Version": "0.0.3",

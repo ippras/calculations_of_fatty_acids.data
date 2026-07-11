@@ -2,7 +2,7 @@
 (
     meta: {
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
-        "Date": "2025-07-09",
+        dates: ["2025-07-09"],
         "Description": "",
         "Name": "Acer rubrum",
         "Version": "0.0.0",

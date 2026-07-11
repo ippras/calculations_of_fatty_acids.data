@@ -2,7 +2,7 @@
 (
     meta: {
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
-        "Date": "1997-08-01",
+        dates: ["1997-08-01"],
         "Description": "https://doi.org/10.1007/s11746-997-0016-1",
         "Name": "Sunflower seed (high palmitic, high oleic)",
         "Parameters": "",

@@ -2,7 +2,7 @@
 (
     meta: {
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
-        "Date": "2025-07-08",
+        dates: ["2025-07-08"],
         "Description": "#2737, #2772",
         "Name": "Acer ginnala",
         "Version": "0.0.2",

@@ -2,7 +2,7 @@
 (
     meta: {
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
-        "Date": "2025-11-26",
+        dates: ["2025-11-26"],
         "Description": "#3375",
         "Name": "Catalpa ovata{TL}",
         "Version": "0.0.0",

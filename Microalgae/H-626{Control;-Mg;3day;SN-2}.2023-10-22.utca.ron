@@ -2,7 +2,7 @@
 (
     meta: {
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
-        "Date": "2023-10-22",
+        dates: ["2023-10-22"],
         "Description": "",
         "Name": "H-626{Control;-Mg;3day;SN-2}",
         "Version": "0.0.0",

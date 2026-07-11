@@ -2,7 +2,7 @@
 (
     meta: {
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
-        "Date": "2025-10-29",
+        dates: ["2025-10-29"],
         "Description": "Cat. No. 2233, Прогресс, Россия\n#2887, #3165",
         "Name": "VIR-2233",
         "Version": "0.0.3",

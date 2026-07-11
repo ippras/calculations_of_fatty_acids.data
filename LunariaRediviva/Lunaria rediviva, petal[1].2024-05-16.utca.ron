@@ -2,7 +2,7 @@
 (
     meta: {
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
-        "Date": "2024-05-16",
+        dates: ["2024-05-16"],
         "Description": "#1679",
         "Name": "Lunaria rediviva, petal",
         "Version": "0.0.1",
