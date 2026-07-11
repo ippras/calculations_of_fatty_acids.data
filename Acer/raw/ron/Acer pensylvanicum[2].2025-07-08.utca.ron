@@ -4,7 +4,7 @@
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2025-07-08"],
         description: "#2747, #2779",
-        "Name": "Acer pensylvanicum",
+        name: "Acer pensylvanicum",
         "Version": "0.0.2",
     },
     data: (

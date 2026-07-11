@@ -4,7 +4,7 @@
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2026-02-26"],
         description: "",
-        "Name": "VNIIMK-6",
+        name: "VNIIMK-6",
         "Parameters": "",
         "Version": "0.0.0",
     },

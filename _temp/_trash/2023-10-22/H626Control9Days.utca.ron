@@ -3,7 +3,7 @@
 (
     columns: [
         {
-            "name": "FA",
+            name: "FA",
             "datatype": Struct([
                 (
                     name: "Label",
@@ -25,7 +25,7 @@
             "length": 14,
             "values": [
                 {
-                    "name": "Label",
+                    name: "Label",
                     "datatype": String,
                     "bit_settings": "",
                     "values": [
@@ -46,7 +46,7 @@
                     ],
                 },
                 {
-                    "name": "Carbons",
+                    name: "Carbons",
                     "datatype": UInt8,
                     "bit_settings": "",
                     "values": [
@@ -67,24 +67,24 @@
                     ],
                 },
                 {
-                    "name": "Doubles",
+                    name: "Doubles",
                     "datatype": List(Int8),
                     "bit_settings": "",
                     "values": [
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [],
                         },
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [],
                         },
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [
@@ -92,7 +92,7 @@
                             ],
                         },
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [
@@ -100,7 +100,7 @@
                             ],
                         },
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [
@@ -109,13 +109,13 @@
                             ],
                         },
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [],
                         },
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [
@@ -125,7 +125,7 @@
                             ],
                         },
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [
@@ -133,7 +133,7 @@
                             ],
                         },
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [
@@ -141,7 +141,7 @@
                             ],
                         },
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [
@@ -150,13 +150,13 @@
                             ],
                         },
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [],
                         },
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [
@@ -166,7 +166,7 @@
                             ],
                         },
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [
@@ -174,7 +174,7 @@
                             ],
                         },
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [],
@@ -182,90 +182,90 @@
                     ],
                 },
                 {
-                    "name": "Triples",
+                    name: "Triples",
                     "datatype": List(Int8),
                     "bit_settings": "",
                     "values": [
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [],
                         },
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [],
                         },
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [],
                         },
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [],
                         },
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [],
                         },
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [],
                         },
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [],
                         },
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [],
                         },
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [],
                         },
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [],
                         },
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [],
                         },
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [],
                         },
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [],
                         },
                         {
-                            "name": "",
+                            name: "",
                             "datatype": Int8,
                             "bit_settings": "",
                             "values": [],
@@ -275,7 +275,7 @@
             ],
         },
         {
-            "name": "TAG",
+            name: "TAG",
             "datatype": Float64,
             "bit_settings": "",
             "values": [
@@ -296,7 +296,7 @@
             ],
         },
         {
-            "name": "DAG1223",
+            name: "DAG1223",
             "datatype": Float64,
             "bit_settings": "",
             "values": [
@@ -317,7 +317,7 @@
             ],
         },
         {
-            "name": "MAG2",
+            name: "MAG2",
             "datatype": Float64,
             "bit_settings": "",
             "values": [

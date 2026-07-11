@@ -4,7 +4,7 @@
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2025-10-30"],
         description: "К-3599, RIL-130, Франция",
-        "Name": "К-3599",
+        name: "К-3599",
         "Parameters": "",
         "Version": "0.0.0",
     },

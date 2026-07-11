@@ -4,7 +4,7 @@
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2025-10-31"],
         description: "Cat. No. 3714, ВИР 172Б, Россия\n#2903, #3189",
-        "Name": "VIR-3714",
+        name: "VIR-3714",
         "Version": "0.0.1",
     },
     data: (

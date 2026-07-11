@@ -4,7 +4,7 @@
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2025-07-09"],
         description: "#2741, #2786",
-        "Name": "Acer spicatum",
+        name: "Acer spicatum",
         "Version": "0.0.2",
     },
     data: (

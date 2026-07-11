@@ -4,7 +4,7 @@
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2014-06-19"],
         description: "https://doi.org/10.1007/s11746-014-2553-8",
-        "Name": "Euonymus alatus",
+        name: "Euonymus alatus",
         "Version": "0.0.0",
     },
     data: (

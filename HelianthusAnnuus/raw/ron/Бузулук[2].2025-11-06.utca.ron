@@ -4,7 +4,7 @@
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2025-11-06"],
         description: "Бузулук, Россия\n#3142, #3202",
-        "Name": "Бузулук",
+        name: "Бузулук",
         "Version": "0.0.2",
     },
     data: (

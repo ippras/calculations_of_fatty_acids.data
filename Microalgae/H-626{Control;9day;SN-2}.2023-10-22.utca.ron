@@ -4,7 +4,7 @@
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2023-10-22"],
         description: "",
-        "Name": "H-626{Control;9day;SN-2}",
+        name: "H-626{Control;9day;SN-2}",
         "Version": "0.0.0",
     },
     data: (

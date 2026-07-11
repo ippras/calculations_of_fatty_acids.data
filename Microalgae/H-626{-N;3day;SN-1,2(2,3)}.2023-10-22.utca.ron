@@ -4,7 +4,7 @@
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2023-10-22"],
         description: "",
-        "Name": "H-626{-N;3day;SN-1,2(2,3)}",
+        name: "H-626{-N;3day;SN-1,2(2,3)}",
         "Version": "0.0.0",
     },
     data: (

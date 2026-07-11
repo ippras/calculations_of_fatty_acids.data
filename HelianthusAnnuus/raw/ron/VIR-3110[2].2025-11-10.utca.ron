@@ -4,7 +4,7 @@
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2025-11-10"],
         description: "Cat. No. 3110, Первенец, Россия\n#3208, #3212",
-        "Name": "VIR-3110",
+        name: "VIR-3110",
         "Version": "0.0.2",
     },
     data: (

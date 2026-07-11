@@ -4,7 +4,7 @@
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2004-05-20"],
         description: "https://doi.org/10.1016/j.ab.2004.07.019",
-        "Name": "Walnut",
+        name: "Walnut",
         "Parameters": "",
         "Version": "0.0.0",
     },

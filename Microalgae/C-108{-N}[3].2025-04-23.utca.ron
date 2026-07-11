@@ -4,7 +4,7 @@
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2025-04-23"],
         description: "ca 500 mcg TAG",
-        "Name": "C-108{-N}",
+        name: "C-108{-N}",
         "Version": "0.0.3",
     },
     data: (

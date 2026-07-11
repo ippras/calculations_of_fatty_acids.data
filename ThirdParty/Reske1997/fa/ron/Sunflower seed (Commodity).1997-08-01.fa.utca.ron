@@ -4,7 +4,7 @@
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["1997-08-01"],
         description: "https://doi.org/10.1007/s11746-997-0016-1",
-        "Name": "Sunflower seed (commodity)",
+        name: "Sunflower seed (commodity)",
         "Parameters": "",
         "Version": "0.0.0",
     },

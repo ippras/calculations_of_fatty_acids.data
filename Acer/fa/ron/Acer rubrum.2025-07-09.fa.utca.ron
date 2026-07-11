@@ -4,7 +4,7 @@
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2025-07-09"],
         description: "",
-        "Name": "Acer rubrum",
+        name: "Acer rubrum",
         "Version": "0.0.0",
     },
     data: (
