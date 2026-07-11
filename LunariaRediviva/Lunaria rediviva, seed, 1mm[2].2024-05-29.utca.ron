@@ -3,7 +3,7 @@
     meta: {
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2024-05-29"],
-        "Description": "(100 uL 17:0)\n#1731",
+        description: "(100 uL 17:0)\n#1731",
         "Name": "Lunaria rediviva, seed, 1mm",
         "Version": "0.0.2",
     },

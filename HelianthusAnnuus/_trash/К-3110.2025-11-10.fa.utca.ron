@@ -3,7 +3,7 @@
     meta: {
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2025-11-10"],
-        "Description": "К-3110, Первенец, Россия",
+        description: "К-3110, Первенец, Россия",
         "Name": "К-3110",
         "Version": "0.0.0",
     },

@@ -3,7 +3,7 @@
     meta: {
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2025-07-08"],
-        "Description": "#2744, #2776",
+        description: "#2744, #2776",
         "Name": "Acer ukurunduense",
         "Version": "0.0.2",
     },

@@ -1,3 +1,5 @@
 - `        "Authors": "Giorgi Vladimirovich Kazakov;Roman Alexandrovich Sidorov",` => `        authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],`
 - `        "Date": "(\d{4}-\d{2}-\d{2})",` -> `        dates: ["$1"],`
-- `        "Description": "(.*)",` -> `        description: ["
+- `        "Description": "(.*)",` -> `        description: "$1",`
+- `        "Name": "(.*)",` -> `        name: "$1",`
+- `        "Version": "(\d)\.(\d)\.(\d)",` -> `versions: [($1, $2, $3)],`

@@ -3,7 +3,7 @@
     meta: {
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2025-10-29"],
-        "Description": "К-2233, Прогресс, Россия\n#2886, #3164",
+        description: "К-2233, Прогресс, Россия\n#2886, #3164",
         "Name": "К-2233",
         "Version": "0.0.2",
     },

@@ -3,7 +3,7 @@
     meta: {
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2025-07-09"],
-        "Description": "#2742, #2787",
+        description: "#2742, #2787",
         "Name": "Acer spicatum",
         "Version": "0.0.3",
     },

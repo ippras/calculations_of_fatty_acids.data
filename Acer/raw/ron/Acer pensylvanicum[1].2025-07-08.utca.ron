@@ -3,7 +3,7 @@
     meta: {
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2025-07-08"],
-        "Description": "#2746, #2778",
+        description: "#2746, #2778",
         "Name": "Acer pensylvanicum",
         "Version": "0.0.1",
     },

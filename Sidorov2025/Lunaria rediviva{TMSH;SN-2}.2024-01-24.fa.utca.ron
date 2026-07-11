@@ -3,7 +3,7 @@
     meta: {
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2024-01-24"],
-        "Description": "https://doi.org/10.3390/plants14040612",
+        description: "https://doi.org/10.3390/plants14040612",
         "Name": "Lunaria rediviva{TMSH;SN-2}",
         "Version": "0.0.0",
     },

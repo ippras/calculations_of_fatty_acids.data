@@ -3,7 +3,7 @@
     meta: {
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2023-10-24"],
-        "Description": "",
+        description: "",
         "Name": "C-70{Control;SN-2}",
         "Version": "0.0.0",
     },

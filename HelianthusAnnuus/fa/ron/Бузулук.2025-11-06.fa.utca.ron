@@ -3,7 +3,7 @@
     meta: {
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2025-11-06"],
-        "Description": "Бузулук, Россия",
+        description: "Бузулук, Россия",
         "Name": "Бузулук",
         "Parameters": "",
         "Version": "0.0.0",

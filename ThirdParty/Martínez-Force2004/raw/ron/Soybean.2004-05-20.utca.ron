@@ -3,7 +3,7 @@
     meta: {
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2004-05-20"],
-        "Description": "https://doi.org/10.1016/j.ab.2004.07.019",
+        description: "https://doi.org/10.1016/j.ab.2004.07.019",
         "Name": "Soybean",
         "Parameters": "",
         "Version": "0.0.0",

@@ -3,7 +3,7 @@
     meta: {
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2026-02-23"],
-        "Description": "#3680 2026-02-12;#3760 2026-02-23",
+        description: "#3680 2026-02-12;#3760 2026-02-23",
         "Name": "VNIIMK-1",
         "Parameters": "",
         "Version": "0.0.1",

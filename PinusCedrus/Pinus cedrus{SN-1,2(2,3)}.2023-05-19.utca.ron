@@ -3,7 +3,7 @@
     meta: {
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2023-05-19"],
-        "Description": "#341, #343",
+        description: "#341, #343",
         "Name": "Pinus cedrus{SN-1,2(2,3)}",
         "Version": "0.0.0",
     },

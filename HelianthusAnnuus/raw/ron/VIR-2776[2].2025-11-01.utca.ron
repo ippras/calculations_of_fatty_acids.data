@@ -3,7 +3,7 @@
     meta: {
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2025-11-01"],
-        "Description": "Cat. No. 2776, ВИР 136, Россия\n#2907, #3193",
+        description: "Cat. No. 2776, ВИР 136, Россия\n#2907, #3193",
         "Name": "VIR-2776",
         "Version": "0.0.2",
     },

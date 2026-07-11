@@ -3,7 +3,7 @@
     meta: {
         "Authors": "Giorgi Kazakov,Roman Sidorov",
         dates: ["2023-05-19"],
-        "Description": "#341, #343, #344",
+        description: "#341, #343, #344",
         "Name": "Pinus cedrus",
         "Version": "0.0.0",
     },
