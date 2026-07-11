@@ -1,6 +1,6 @@
 #![enable(unwrap_newtypes)]
 (
-    meta: {
+    meta: (
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2025-11-01"],
         description: "К-2776, ВИР 136, Россия\n#2907, #3193",
