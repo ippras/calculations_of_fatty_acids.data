@@ -2,4 +2,4 @@
 - `        "Date": "(\d{4}-\d{2}-\d{2})",` -> `        dates: ["$1"],`
 - `        "Description": "(.*)",` -> `        description: "$1",`
 - `        "Name": "(.*)",` -> `        name: "$1",`
-- `        "Version": "(\d)\.(\d)\.(\d)",` -> `versions: [($1, $2, $3)],`
+- `        "Version": "(\d)\.(\d)\.(\d)",` -> `        versions: [($1, $2, $3)],`
