@@ -1,4 +1,5 @@
 #![enable(unwrap_newtypes)]
+#![enable(implicit_some)]
 (
     meta: (
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
