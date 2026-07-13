@@ -4,7 +4,8 @@
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2025-04-23"],
         description: "ca 500 mcg TAG",
-        name: "P-519{-N}",
+        name: "P-519",
+        parameters: [(name: "-N")],
         versions: [(0, 0, 1)],
     ),
     data: (
