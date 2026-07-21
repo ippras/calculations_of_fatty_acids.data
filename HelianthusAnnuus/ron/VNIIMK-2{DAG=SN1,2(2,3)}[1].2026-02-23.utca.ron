@@ -5,7 +5,7 @@
         dates: ["2026-02-23"],
         description: "#3681 2026-02-12;#3763 2026-02-23",
         name: "VNIIMK-2",
-        "Parameters": "",
+        parameters: [(name: "DAG", value: "SN1,2(2,3)")],
         versions: [(0, 0, 1)],
     ),
     data: (

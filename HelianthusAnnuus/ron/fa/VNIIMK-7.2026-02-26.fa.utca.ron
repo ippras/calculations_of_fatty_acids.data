@@ -5,7 +5,7 @@
         dates: ["2026-02-26"],
         description: "",
         name: "VNIIMK-7",
-        "Parameters": "",
+        parameters: [(name: "DAG", value: "SN1,2(2,3)")],
         versions: [(0, 0, 0)],
     ),
     data: (
