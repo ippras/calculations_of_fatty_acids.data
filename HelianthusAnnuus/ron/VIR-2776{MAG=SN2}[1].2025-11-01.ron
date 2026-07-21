@@ -5,6 +5,7 @@
         dates: ["2025-11-01"],
         description: "Cat. No. 2776, ВИР 136, Россия\n#2906 #3192",
         name: "VIR-2776",
+        parameters: [(name: "MAG", value: "SN2")],
         versions: [(0, 0, 1)],
     ),
     data: (

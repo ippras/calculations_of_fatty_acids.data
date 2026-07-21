@@ -5,6 +5,7 @@
         dates: ["2025-11-06"],
         description: "Бузулук, Россия\n#3142 #3202",
         name: "Бузулук",
+        parameters: [(name: "MAG", value: "SN2")],
         versions: [(0, 0, 2)],
     ),
     data: (

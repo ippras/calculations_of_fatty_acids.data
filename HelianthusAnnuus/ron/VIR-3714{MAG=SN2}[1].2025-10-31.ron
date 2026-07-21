@@ -5,6 +5,7 @@
         dates: ["2025-10-31"],
         description: "Cat. No. 3714, ВИР 172Б, Россия\n#2903 #3189",
         name: "VIR-3714",
+        parameters: [(name: "MAG", value: "SN2")],
         versions: [(0, 0, 1)],
     ),
     data: (

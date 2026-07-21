@@ -5,6 +5,7 @@
         dates: ["2025-10-30"],
         description: "Cat. No. 2699, Прогресс, Россия\n#2890 #3173",
         name: "VIR-2699",
+        parameters: [(name: "MAG", value: "SN2")],
         versions: [(0, 0, 3)],
     ),
     data: (
