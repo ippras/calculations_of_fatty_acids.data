@@ -5,7 +5,7 @@
         dates: ["2004-05-20"],
         description: "https://doi.org/10.1016/j.ab.2004.07.019",
         name: "Olive",
-        "Parameters": "",
+        parameters: [],
         versions: [(0, 0, 0)],
     ),
     data: (
