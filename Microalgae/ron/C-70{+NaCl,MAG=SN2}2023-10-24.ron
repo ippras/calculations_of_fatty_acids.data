@@ -4,7 +4,7 @@
     meta: (
         name: "C-70",
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
-        parameters: [(name: "+NaCl"), (name: "MAG", value: "SN2")],
+        parameters: [(name: "+NaCl"), (name: "MAG", value: "SN-2")],
         dates: ["2023-10-24"],
     ),
     data: (

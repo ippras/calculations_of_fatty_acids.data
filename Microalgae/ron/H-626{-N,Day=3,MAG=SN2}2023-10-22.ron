@@ -4,7 +4,7 @@
     meta: (
         name: "H-626",
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
-        parameters: [(name: "-N"), (name: "Day", value: "3"), (name: "MAG", value: "SN2")],
+        parameters: [(name: "-N"), (name: "Day", value: "3"), (name: "MAG", value: "SN-2")],
         dates: ["2023-10-22"],
     ),
     data: (
