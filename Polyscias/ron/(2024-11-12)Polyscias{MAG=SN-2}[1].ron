@@ -4,7 +4,7 @@
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2024-11-12"],
         name: "Polyscias",
-        parameters: [(name: "MAG", value: "SN-2")],
+        parameters: [(name: "SN-2")],
         versions: [(0, 0, 1)],
     ),
     data: (

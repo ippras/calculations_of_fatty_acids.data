@@ -5,7 +5,7 @@
         dates: ["2023-05-19"],
         description: "#341, #344",
         name: "Pinus cedrus",
-        parameters: [(name: "MAG", value: "SN-2")],
+        parameters: [(name: "SN-2")],
         versions: [(0, 0, 0)],
     ),
     data: (

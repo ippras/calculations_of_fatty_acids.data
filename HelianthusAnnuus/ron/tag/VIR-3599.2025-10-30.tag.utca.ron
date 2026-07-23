@@ -6,7 +6,7 @@
         dates: ["2025-10-30"],
         description: "Cat. No. 3599, RIL-130, Франция",
         name: "VIR-3599",
-        parameters: [(name: "DAG", value: "SN1,2(2,3)")],
+        parameters: [(name: "SN-1,2(2,3)")],
         versions: [(0, 0, 0)],
     ),
     data: (
