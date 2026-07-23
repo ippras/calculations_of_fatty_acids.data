@@ -4,7 +4,8 @@
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2025-11-26"],
         description: "#3375",
-        name: "Catalpa ovata{TL}",
+        name: "Catalpa ovata",
+        parameters: [(name: "TL")],
         versions: [(0, 0, 0)],
     ),
     data: (
