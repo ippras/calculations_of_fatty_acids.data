@@ -3,7 +3,8 @@
     meta: (
         authors: ["Giorgi Vladimirovich Kazakov", "Roman Alexandrovich Sidorov"],
         dates: ["2024-11-12"],
-        name: "Polyscias{SN-1,2(2,3)}",
+        name: "Polyscias",
+        parameters: [(name: "DAG", value: "SN1,2(2,3)")],
         versions: [(0, 0, 2)],
     ),
     data: (
