@@ -7,7 +7,7 @@
         (name: "Date", value: "2025-04-24"),
         (name: "Identifier", value: "2564"),
         (name: "Name", value: "H-626"),
-        (name: "Stereospecific numbers", value: "1&2&3"),
+        (name: "StereospecificNumbers", value: "1&2&3"),
         (name: "Cultivation condition", value: "-N"),
     ],
     data: (

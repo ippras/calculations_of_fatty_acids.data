@@ -7,7 +7,7 @@
         (name: "Date", value: "2025-04-25"),
         (name: "Identifier", value: "2571"),
         (name: "Name", value: "C-1210"),
-        (name: "Stereospecific numbers", value: "2"),
+        (name: "StereospecificNumbers", value: "2"),
         (name: "Version", value: "0.0.1"),
         (name: "Cultivation condition", value: "-N"),
     ],
