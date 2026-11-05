@@ -1,1 +1,3 @@
-# [Martinez-Force (2004)](https://doi.org/10.1016/j.ab.2004.07.019)
+# Readme
+
+[github.com](https://github.com/kgv-third-party/Martinez-Force2004)
