@@ -3,6 +3,7 @@
     meta: [
         (name: "Author", value: "Giorgi Vladimirovich Kazakov"),
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
+        (name: "Lipids", value: "Neutral"),
         (name: "Date", value: "2025-07-08"),
         (name: "Description", value: "#2738, #2774"),
         (name: "Name", value: "Acer ginnala"),
