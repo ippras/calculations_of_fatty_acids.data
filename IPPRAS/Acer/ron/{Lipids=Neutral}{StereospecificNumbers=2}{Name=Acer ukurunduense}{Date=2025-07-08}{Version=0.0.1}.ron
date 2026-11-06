@@ -5,7 +5,7 @@
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
         (name: "Lipids", value: "Neutral"),
         (name: "Date", value: "2025-07-08"),
-        (name: "Description", value: "#2743, #2775"),
+        (name: "Index", value: "2775"),
         (name: "Name", value: "Acer ukurunduense"),
         (name: "Species", value: "Acer ukurunduense"),
         (name: "Version", value: "0.0.1"),

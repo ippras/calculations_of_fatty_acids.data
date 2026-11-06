@@ -5,7 +5,7 @@
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
         (name: "Lipids", value: "Neutral"),
         (name: "Date", value: "2025-07-08"),
-        (name: "Description", value: "#2738, #2774"),
+        (name: "Index", value: "2738"),
         (name: "Name", value: "Acer ginnala"),
         (name: "Species", value: "Acer ginnala"),
         (name: "Version", value: "0.0.3"),

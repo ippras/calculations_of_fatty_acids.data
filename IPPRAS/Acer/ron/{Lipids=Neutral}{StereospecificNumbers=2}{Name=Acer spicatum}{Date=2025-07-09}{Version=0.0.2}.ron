@@ -5,7 +5,7 @@
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
         (name: "Lipids", value: "Neutral"),
         (name: "Date", value: "2025-07-09"),
-        (name: "Description", value: "#2741, #2786"),
+        (name: "Index", value: "2786"),
         (name: "Name", value: "Acer spicatum"),
         (name: "Species", value: "Acer spicatum"),
         (name: "Version", value: "0.0.2"),

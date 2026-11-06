@@ -5,7 +5,7 @@
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
         (name: "Lipids", value: "Neutral"),
         (name: "Date", value: "2025-07-08"),
-        (name: "Description", value: "#2746, #2778"),
+        (name: "Index", value: "2778"),
         (name: "Name", value: "Acer pensylvanicum"),
         (name: "Species", value: "Acer pensylvanicum"),
         (name: "Version", value: "0.0.1"),
