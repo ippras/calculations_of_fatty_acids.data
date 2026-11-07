@@ -5,7 +5,7 @@
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
         (name: "CultivationCondition", value: "-N"),
         (name: "Date", value: "2026-08-03"),
-        (name: "Identifier", value: "2229"),
+        (name: "Index", value: "2229"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "C-1210"),
         (name: "Species", value: "Neochlorella semenenkoi"),

@@ -5,7 +5,7 @@
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
         (name: "CultivationCondition", value: "-N"),
         (name: "Date", value: "2025-04-26"),
-        (name: "Identifier", value: "2577"),
+        (name: "Index", value: "2577"),
         (name: "Lipids", value: "Neutral"),
         (name: "Name", value: "H-626"),
         (name: "Species", value: "Coelastrella affinis"),

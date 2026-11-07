@@ -5,7 +5,7 @@
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
         (name: "CultivationCondition", value: "-N"),
         (name: "Date", value: "2025-04-23"),
-        (name: "Identifier", value: "2557"),
+        (name: "Index", value: "2557"),
         (name: "Lipids", value: "Neutral"),
         (name: "Name", value: "C-108"),
         (name: "Species", value: "Chromochloris zofingiensis"),
