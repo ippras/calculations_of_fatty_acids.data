@@ -8,6 +8,10 @@
 `        name: "(.*)",`
 `        dates: \["(\d{4}-\d{2}-\d{2})"\],`
 
+Saponification
+𝑯2𝑺𝑶4 / 𝑴𝒆𝑶𝑯
+TMSH
+
 ---
 
 `        \(name: "Date", value: "(\d{4}-\d{2}-\d{2})"\),`
