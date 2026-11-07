@@ -9,7 +9,7 @@
         (name: "Description", value: "Cat. No. 3110, Первенец, Россия"),
         (name: "Index", value: "3207"),
         (name: "Name", value: "VIR-3110"),
-        (name: "Version", value: "0.0.1"),
+        (name: "Replication", value: "0.0.1"),
         (name: "StereospecificNumbers", value: "1,2,3"),
     ],
     data: (

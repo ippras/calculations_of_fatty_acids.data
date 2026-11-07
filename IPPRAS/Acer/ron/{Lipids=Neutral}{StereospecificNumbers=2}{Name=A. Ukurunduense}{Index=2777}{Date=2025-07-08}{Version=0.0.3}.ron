@@ -8,7 +8,7 @@
         (name: "Index", value: "2777"),
         (name: "Name", value: "A. ukurunduense"),
         (name: "Species", value: "Acer ukurunduense"),
-        (name: "Version", value: "0.0.3"),
+        (name: "Replication", value: "0.0.3"),
         (name: "StereospecificNumbers", value: "2"),
     ],
     data: (

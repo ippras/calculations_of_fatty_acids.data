@@ -9,7 +9,7 @@
         (name: "Description", value: "Бузулук, Россия"),
         (name: "Index", value: "3142"),
         (name: "Name", value: "Бузулук"),
-        (name: "Version", value: "0.0.2"),
+        (name: "Replication", value: "0.0.2"),
         (name: "StereospecificNumbers", value: "1,2,3"),
     ],
     data: (

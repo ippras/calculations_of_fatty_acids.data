@@ -8,7 +8,7 @@
         (name: "Date", value: "2026-02-25"),
         (name: "Index", value: "3779"),
         (name: "Name", value: "VNIIMK-5"),
-        (name: "Version", value: "0.0.1"),
+        (name: "Replication", value: "0.0.1"),
         (name: "StereospecificNumbers", value: "1,2(2,3)"),
     ],
     data: (

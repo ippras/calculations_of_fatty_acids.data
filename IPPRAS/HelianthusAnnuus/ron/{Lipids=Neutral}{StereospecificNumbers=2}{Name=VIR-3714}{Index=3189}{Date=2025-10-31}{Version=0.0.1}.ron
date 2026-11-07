@@ -9,7 +9,7 @@
         (name: "Description", value: "Cat. No. 3714, ВИР 172Б, Россия"),
         (name: "Index", value: "3189"),
         (name: "Name", value: "VIR-3714"),
-        (name: "Version", value: "0.0.1"),
+        (name: "Replication", value: "0.0.1"),
         (name: "StereospecificNumbers", value: "2"),
     ],
     data: (

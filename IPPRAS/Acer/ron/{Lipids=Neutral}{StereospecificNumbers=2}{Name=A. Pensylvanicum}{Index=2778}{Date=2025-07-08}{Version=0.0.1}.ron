@@ -8,7 +8,7 @@
         (name: "Index", value: "2778"),
         (name: "Name", value: "A. pensylvanicum"),
         (name: "Species", value: "Acer pensylvanicum"),
-        (name: "Version", value: "0.0.1"),
+        (name: "Replication", value: "0.0.1"),
         (name: "StereospecificNumbers", value: "2"),
     ],
     data: (

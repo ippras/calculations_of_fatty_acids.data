@@ -10,7 +10,7 @@
         (name: "Index", value: "3190"),
         (name: "Index", value: "3204"),
         (name: "Name", value: "VIR-3714"),
-        (name: "Version", value: "0.0.2"),
+        (name: "Replication", value: "0.0.2"),
         (name: "StereospecificNumbers", value: "2"),
     ],
     data: (

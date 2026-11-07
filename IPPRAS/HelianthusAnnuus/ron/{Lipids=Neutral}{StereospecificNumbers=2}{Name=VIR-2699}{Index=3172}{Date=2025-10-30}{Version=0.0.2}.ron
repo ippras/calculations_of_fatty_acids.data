@@ -9,7 +9,7 @@
         (name: "Description", value: "Cat. No. 2699, Прогресс, Россия"),
         (name: "Index", value: "3172"),
         (name: "Name", value: "VIR-2699"),
-        (name: "Version", value: "0.0.2"),
+        (name: "Replication", value: "0.0.2"),
         (name: "StereospecificNumbers", value: "2"),
     ],
     data: (

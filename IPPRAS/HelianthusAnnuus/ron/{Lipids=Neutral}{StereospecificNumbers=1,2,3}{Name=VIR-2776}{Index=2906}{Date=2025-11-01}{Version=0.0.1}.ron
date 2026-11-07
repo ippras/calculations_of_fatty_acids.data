@@ -9,7 +9,7 @@
         (name: "Description", value: "Cat. No. 2776, ВИР 136, Россия"),
         (name: "Index", value: "2906"),
         (name: "Name", value: "VIR-2776"),
-        (name: "Version", value: "0.0.1"),
+        (name: "Replication", value: "0.0.1"),
         (name: "StereospecificNumbers", value: "1,2,3"),
     ],
     data: (

@@ -8,7 +8,7 @@
         (name: "Index", value: "2741"),
         (name: "Name", value: "A. spicatum"),
         (name: "Species", value: "Acer spicatum"),
-        (name: "Version", value: "0.0.2"),
+        (name: "Replication", value: "0.0.2"),
         (name: "StereospecificNumbers", value: "1,2,3"),
     ],
     data: (

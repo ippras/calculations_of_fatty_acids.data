@@ -8,7 +8,7 @@
         (name: "Index", value: "2738"),
         (name: "Name", value: "A. ginnala"),
         (name: "Species", value: "Acer ginnala"),
-        (name: "Version", value: "0.0.3"),
+        (name: "Replication", value: "0.0.3"),
         (name: "StereospecificNumbers", value: "1,2,3"),
     ],
     data: (

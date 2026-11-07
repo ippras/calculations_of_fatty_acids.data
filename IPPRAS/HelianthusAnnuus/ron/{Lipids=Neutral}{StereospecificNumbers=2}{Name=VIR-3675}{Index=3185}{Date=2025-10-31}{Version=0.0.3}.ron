@@ -9,7 +9,7 @@
         (name: "Description", value: "Cat. No. 3675, ВИР 839, Россия"),
         (name: "Index", value: "3185"),
         (name: "Name", value: "VIR-3675"),
-        (name: "Version", value: "0.0.3"),
+        (name: "Replication", value: "0.0.3"),
         (name: "StereospecificNumbers", value: "2"),
     ],
     data: (

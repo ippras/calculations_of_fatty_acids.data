@@ -9,7 +9,7 @@
         (name: "Description", value: "Cat. No. 3599, RIL-130, Франция"),
         (name: "Index", value: "2893"),
         (name: "Name", value: "VIR-3599"),
-        (name: "Version", value: "0.0.3"),
+        (name: "Replication", value: "0.0.3"),
         (name: "StereospecificNumbers", value: "1,2,3"),
     ],
     data: (
