@@ -3,12 +3,12 @@
     meta: [
         (name: "Author", value: "Giorgi Vladimirovich Kazakov"),
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
-        (name: "Date", value: "2014-10-21"),
-        (name: "Lipids", value: "Neutral"),
         (name: "DOI", value: "10.1007/s11746-014-2553-8"),
-        (name: "Species", value: "Euonymus maximowiczianus"),
-        (name: "Name", value: "E. Maximowiczianus"),
+        (name: "Date", value: "2014-10-21"),
         (name: "Index", value: "12"),
+        (name: "Lipids", value: "Neutral"),
+        (name: "Name", value: "E. Maximowiczianus"),
+        (name: "Species", value: "Euonymus maximowiczianus"),
         (name: "StereospecificNumbers", value: "2"),
     ],
     data: (

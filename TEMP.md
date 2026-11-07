@@ -47,6 +47,9 @@ TMSH
 - нет индекса: {Lipids=Neutral}{StereospecificNumbers=1&2&3}{Name=VIR-3675}{Date=2025-10-31}{Version=0.0.2}
 - нет индекса: {Lipids=Neutral}{StereospecificNumbers=1&2&3}{Name=VIR-3675}{Date=2025-10-31}{Version=0.0.3}
 - нет индекса: 
+
+- {Lipids=Neutral}{StereospecificNumbers=2}{Name=VIR-3714}{Index=3190+3204}{Date=2025-10-31}{Version=0.0.2}.ron - какой из Index
+
 ---
 
 на среде тамия

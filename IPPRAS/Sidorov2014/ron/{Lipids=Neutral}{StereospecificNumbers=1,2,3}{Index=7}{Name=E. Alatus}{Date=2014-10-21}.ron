@@ -3,12 +3,12 @@
     meta: [
         (name: "Author", value: "Giorgi Vladimirovich Kazakov"),
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
-        (name: "Date", value: "2014-10-21"),
-        (name: "Lipids", value: "Neutral"),
         (name: "DOI", value: "10.1007/s11746-014-2553-8"),
-        (name: "Species", value: "Euonymus alatus"),
-        (name: "Name", value: "E. Alatus"),
+        (name: "Date", value: "2014-10-21"),
         (name: "Index", value: "7"),
+        (name: "Lipids", value: "Neutral"),
+        (name: "Name", value: "E. Alatus"),
+        (name: "Species", value: "Euonymus alatus"),
         (name: "StereospecificNumbers", value: "1,2,3"),
     ],
     data: (

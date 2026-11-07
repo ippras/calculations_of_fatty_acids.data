@@ -3,13 +3,13 @@
     meta: [
         (name: "Author", value: "Giorgi Vladimirovich Kazakov"),
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
-        (name: "Lipids", value: "Neutral"),
-        (name: "Species", value: "Helianthus annuus"),
         (name: "Date", value: "2025-11-06"),
         (name: "Description", value: "Бузулук, Россия"),
         (name: "Index", value: "3203"),
+        (name: "Lipids", value: "Neutral"),
         (name: "Name", value: "Бузулук"),
         (name: "Replication", value: "0.0.3"),
+        (name: "Species", value: "Helianthus annuus"),
         (name: "StereospecificNumbers", value: "2"),
     ],
     data: (

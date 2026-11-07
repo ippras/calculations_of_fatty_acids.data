@@ -3,12 +3,12 @@
     meta: [
         (name: "Author", value: "Giorgi Vladimirovich Kazakov"),
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
-        (name: "Lipids", value: "Neutral"),
         (name: "Date", value: "2025-07-08"),
         (name: "Index", value: "2780"),
+        (name: "Lipids", value: "Neutral"),
         (name: "Name", value: "A. pensylvanicum"),
-        (name: "Species", value: "Acer pensylvanicum"),
         (name: "Replication", value: "0.0.3"),
+        (name: "Species", value: "Acer pensylvanicum"),
         (name: "StereospecificNumbers", value: "2"),
     ],
     data: (

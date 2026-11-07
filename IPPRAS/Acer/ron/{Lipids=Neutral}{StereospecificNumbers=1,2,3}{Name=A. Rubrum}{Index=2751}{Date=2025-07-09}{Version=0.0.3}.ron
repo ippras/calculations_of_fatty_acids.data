@@ -3,12 +3,12 @@
     meta: [
         (name: "Author", value: "Giorgi Vladimirovich Kazakov"),
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
-        (name: "Lipids", value: "Neutral"),
         (name: "Date", value: "2025-07-09"),
         (name: "Index", value: "2751"),
+        (name: "Lipids", value: "Neutral"),
         (name: "Name", value: "A. rubrum"),
-        (name: "Species", value: "Acer rubrum"),
         (name: "Replication", value: "0.0.3"),
+        (name: "Species", value: "Acer rubrum"),
         (name: "StereospecificNumbers", value: "1,2,3"),
     ],
     data: (

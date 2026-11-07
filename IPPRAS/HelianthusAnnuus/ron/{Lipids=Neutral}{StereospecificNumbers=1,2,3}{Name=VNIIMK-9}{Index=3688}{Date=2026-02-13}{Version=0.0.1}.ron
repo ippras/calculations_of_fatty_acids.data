@@ -3,12 +3,12 @@
     meta: [
         (name: "Author", value: "Giorgi Vladimirovich Kazakov"),
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
-        (name: "Lipids", value: "Neutral"),
-        (name: "Species", value: "Helianthus annuus"),
-        (name: "Index", value: "3688"),
         (name: "Date", value: "2026-02-13"),
+        (name: "Index", value: "3688"),
+        (name: "Lipids", value: "Neutral"),
         (name: "Name", value: "VNIIMK-9"),
         (name: "Replication", value: "0.0.1"),
+        (name: "Species", value: "Helianthus annuus"),
         (name: "StereospecificNumbers", value: "1,2,3"),
     ],
     data: (
