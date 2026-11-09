@@ -8,6 +8,7 @@
         (name: "Index", value: "2"),
         (name: "Lipids", value: "Neutral"),
         (name: "Name", value: "Mincane"),
+        (name: "Genus", value: "Corylus"),
         (name: "Species", value: "Corylus avellana"),
         (name: "StereospecificNumbers", value: "2"),
     ],

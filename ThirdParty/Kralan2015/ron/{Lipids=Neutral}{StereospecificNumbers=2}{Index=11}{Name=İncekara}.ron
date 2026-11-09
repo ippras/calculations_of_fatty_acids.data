@@ -8,6 +8,7 @@
         (name: "Index", value: "11"),
         (name: "Lipids", value: "Neutral"),
         (name: "Name", value: "İncekara"),
+        (name: "Genus", value: "Corylus"),
         (name: "Species", value: "Corylus avellana"),
         (name: "StereospecificNumbers", value: "2"),
     ],

@@ -8,6 +8,7 @@
         (name: "Index", value: "7"),
         (name: "Lipids", value: "Neutral"),
         (name: "Name", value: "Uzunmusa"),
+        (name: "Genus", value: "Corylus"),
         (name: "Species", value: "Corylus avellana"),
         (name: "StereospecificNumbers", value: "2"),
     ],

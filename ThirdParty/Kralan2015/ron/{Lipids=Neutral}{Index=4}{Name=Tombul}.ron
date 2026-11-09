@@ -8,6 +8,7 @@
         (name: "Index", value: "4"),
         (name: "Lipids", value: "Neutral"),
         (name: "Name", value: "Tombul"),
+        (name: "Genus", value: "Corylus"),
         (name: "Species", value: "Corylus avellana"),
     ],
     data: (
