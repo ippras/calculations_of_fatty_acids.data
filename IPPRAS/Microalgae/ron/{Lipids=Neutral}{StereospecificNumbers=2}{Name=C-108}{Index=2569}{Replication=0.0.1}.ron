@@ -8,7 +8,7 @@
         (name: "Index", value: "2569"),
         (name: "Lipids", value: "Neutral"),
         (name: "Name", value: "C-108"),
-        (name: "Replication", value: "0.0.1"),
+        (name: "Replication", value: "1"),
         (name: "Species", value: "Chromochloris zofingiensis"),
         (name: "StereospecificNumbers", value: "2"),
         (name: "URL", value: "https://cellreg.org/Catalog_2020/Catalog NEW/IPPAS C-108.html"),

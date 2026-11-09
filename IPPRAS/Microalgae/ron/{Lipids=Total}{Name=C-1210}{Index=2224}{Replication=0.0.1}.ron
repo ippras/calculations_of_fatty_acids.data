@@ -8,7 +8,7 @@
         (name: "Index", value: "2224"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "C-1210"),
-        (name: "Replication", value: "0.0.1"),
+        (name: "Replication", value: "1"),
         (name: "Species", value: "Neochlorella semenenkoi"),
         (name: "URL", value: "https://cellreg.org/Catalog_2020/Catalog NEW/IPPAS C-1210.html"),
     ],

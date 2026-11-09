@@ -8,7 +8,7 @@
         (name: "Index", value: "816"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "H-626"),
-        (name: "Replication", value: "0.0.1"),
+        (name: "Replication", value: "1"),
         (name: "Species", value: "Coelastrella affinis"),
         (name: "URL", value: "https://cellreg.org/Catalog_2020/Catalog NEW/IPPAS H-626.html"),
     ],

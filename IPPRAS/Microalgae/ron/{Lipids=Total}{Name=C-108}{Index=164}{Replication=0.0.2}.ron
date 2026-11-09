@@ -8,7 +8,7 @@
         (name: "Index", value: "164"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "C-108"),
-        (name: "Replication", value: "0.0.2"),
+        (name: "Replication", value: "2"),
         (name: "Species", value: "Chromochloris zofingiensis"),
         (name: "URL", value: "https://cellreg.org/Catalog_2020/Catalog NEW/IPPAS C-108.html"),
     ],
