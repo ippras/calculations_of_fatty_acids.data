@@ -5,11 +5,11 @@
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
         (name: "DOI", value: "10.1002/ejlt.200700040"),
         (name: "Date", value: "2007-07-16"),
+        (name: "Genus", value: "Gossypium"),
         (name: "Group", value: "LA + SFA"),
         (name: "Index", value: "46"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Cotton seed"),
-        (name: "Genus", value: "Gossypium"),
         (name: "Species", value: "Gossypium hirsutum"),
     ],
     data: (

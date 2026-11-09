@@ -5,11 +5,11 @@
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
         (name: "DOI", value: "10.1002/ejlt.200700040"),
         (name: "Date", value: "2007-07-16"),
+        (name: "Genus", value: "Salvia"),
         (name: "Group", value: "ALA + LA"),
         (name: "Index", value: "77"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Chia"),
-        (name: "Genus", value: "Salvia"),
         (name: "Species", value: "Salvia hispanica"),
     ],
     data: (

@@ -5,11 +5,11 @@
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
         (name: "DOI", value: "10.1002/ejlt.200700040"),
         (name: "Date", value: "2007-07-16"),
+        (name: "Genus", value: "Salicornia"),
         (name: "Group", value: "LA"),
         (name: "Index", value: "43"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Salicorn"),
-        (name: "Genus", value: "Salicornia"),
         (name: "Species", value: "Salicornia bigelovii"),
     ],
     data: (

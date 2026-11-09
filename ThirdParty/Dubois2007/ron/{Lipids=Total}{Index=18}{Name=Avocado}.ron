@@ -5,11 +5,11 @@
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
         (name: "DOI", value: "10.1002/ejlt.200700040"),
         (name: "Date", value: "2007-07-16"),
+        (name: "Genus", value: "Persea"),
         (name: "Group", value: "MUFA"),
         (name: "Index", value: "18"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Avocado"),
-        (name: "Genus", value: "Persea"),
         (name: "Species", value: "Persea americana"),
     ],
     data: (

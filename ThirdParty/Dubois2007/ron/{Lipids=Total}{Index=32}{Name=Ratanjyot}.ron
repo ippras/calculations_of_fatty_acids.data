@@ -5,11 +5,11 @@
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
         (name: "DOI", value: "10.1002/ejlt.200700040"),
         (name: "Date", value: "2007-07-16"),
+        (name: "Genus", value: "Jatropha"),
         (name: "Group", value: "MUFA + SFA + LA"),
         (name: "Index", value: "32"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Ratanjyot"),
-        (name: "Genus", value: "Jatropha"),
         (name: "Species", value: "Jatropha curcas"),
     ],
     data: (

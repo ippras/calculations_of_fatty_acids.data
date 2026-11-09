@@ -5,11 +5,11 @@
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
         (name: "DOI", value: "10.1002/ejlt.200700040"),
         (name: "Date", value: "2007-07-16"),
+        (name: "Genus", value: "Cucurbita"),
         (name: "Group", value: "LA + MUFA"),
         (name: "Index", value: "59"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Pumpkin seed"),
-        (name: "Genus", value: "Cucurbita"),
         (name: "Species", value: "Cucurbita pepo"),
     ],
     data: (

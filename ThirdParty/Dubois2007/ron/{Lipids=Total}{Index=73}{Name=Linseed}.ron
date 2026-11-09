@@ -5,11 +5,11 @@
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
         (name: "DOI", value: "10.1002/ejlt.200700040"),
         (name: "Date", value: "2007-07-16"),
+        (name: "Genus", value: "Linum"),
         (name: "Group", value: "ALA + MUFA"),
         (name: "Index", value: "73"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Linseed"),
-        (name: "Genus", value: "Linum"),
         (name: "Species", value: "Linum usitatissimum"),
     ],
     data: (

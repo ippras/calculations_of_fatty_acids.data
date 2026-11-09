@@ -5,11 +5,11 @@
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
         (name: "DOI", value: "10.1002/ejlt.200700040"),
         (name: "Date", value: "2007-07-16"),
+        (name: "Genus", value: "Glycine"),
         (name: "Group", value: "LA + MUFA"),
         (name: "Index", value: "68"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Soybean"),
-        (name: "Genus", value: "Glycine"),
         (name: "Species", value: "Glycine max"),
     ],
     data: (

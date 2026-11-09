@@ -5,11 +5,11 @@
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
         (name: "DOI", value: "10.1002/ejlt.200700040"),
         (name: "Date", value: "2007-07-16"),
+        (name: "Genus", value: "Trigonella"),
         (name: "Group", value: "LA + MUFA"),
         (name: "Index", value: "70"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Fenugreek"),
-        (name: "Genus", value: "Trigonella"),
         (name: "Species", value: "Trigonella foenum-graecum"),
     ],
     data: (

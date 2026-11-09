@@ -5,11 +5,11 @@
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
         (name: "DOI", value: "10.1002/ejlt.200700040"),
         (name: "Date", value: "2007-07-16"),
+        (name: "Genus", value: "Acer"),
         (name: "Group", value: "MUFA + SFA + LA"),
         (name: "Index", value: "35"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Maple tree (sugar)"),
-        (name: "Genus", value: "Acer"),
         (name: "Species", value: "Acer saccharum"),
     ],
     data: (

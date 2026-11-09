@@ -5,11 +5,11 @@
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
         (name: "DOI", value: "10.1002/ejlt.200700040"),
         (name: "Date", value: "2007-07-16"),
+        (name: "Genus", value: "Canarium"),
         (name: "Group", value: "PA"),
         (name: "Index", value: "11"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Pili nut"),
-        (name: "Genus", value: "Canarium"),
         (name: "Species", value: "Canarium ovatum"),
     ],
     data: (

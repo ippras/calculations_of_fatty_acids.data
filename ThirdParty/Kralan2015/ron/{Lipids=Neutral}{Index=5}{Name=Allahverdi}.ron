@@ -5,10 +5,10 @@
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
         (name: "DOI", value: "10.1007/s00217-014-2371-0"),
         (name: "Date", value: "2014-10-25"),
+        (name: "Genus", value: "Corylus"),
         (name: "Index", value: "5"),
         (name: "Lipids", value: "Neutral"),
         (name: "Name", value: "Allahverdi"),
-        (name: "Genus", value: "Corylus"),
         (name: "Species", value: "Corylus avellana"),
     ],
     data: (

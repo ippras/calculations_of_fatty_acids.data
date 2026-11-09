@@ -5,11 +5,11 @@
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
         (name: "DOI", value: "10.1002/ejlt.200700040"),
         (name: "Date", value: "2007-07-16"),
+        (name: "Genus", value: "Opuntia"),
         (name: "Group", value: "LA + SFA"),
         (name: "Index", value: "49"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Cactus pear"),
-        (name: "Genus", value: "Opuntia"),
         (name: "Species", value: "Opuntia ficus-indica"),
     ],
     data: (

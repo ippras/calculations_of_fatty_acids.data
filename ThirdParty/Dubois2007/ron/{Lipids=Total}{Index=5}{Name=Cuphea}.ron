@@ -5,11 +5,11 @@
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
         (name: "DOI", value: "10.1002/ejlt.200700040"),
         (name: "Date", value: "2007-07-16"),
+        (name: "Genus", value: "Cuphea"),
         (name: "Group", value: "LRA + MA"),
         (name: "Index", value: "5"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Cuphea"),
-        (name: "Genus", value: "Cuphea"),
         (name: "Species", value: "Cuphea laminuligena"),
     ],
     data: (

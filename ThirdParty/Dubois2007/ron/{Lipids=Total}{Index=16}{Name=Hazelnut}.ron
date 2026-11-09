@@ -5,11 +5,11 @@
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
         (name: "DOI", value: "10.1002/ejlt.200700040"),
         (name: "Date", value: "2007-07-16"),
+        (name: "Genus", value: "Corylus"),
         (name: "Group", value: "MUFA"),
         (name: "Index", value: "16"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Hazelnut"),
-        (name: "Genus", value: "Corylus"),
         (name: "Species", value: "Corylus avellana"),
     ],
     data: (

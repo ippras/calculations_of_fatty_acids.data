@@ -4,10 +4,10 @@
         (name: "Author", value: "Giorgi Vladimirovich Kazakov"),
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
         (name: "Date", value: "2025-11-26"),
+        (name: "Genus", value: "Catalpa"),
         (name: "Index", value: "3375"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "C. ovata"),
-        (name: "Genus", value: "Catalpa"),
         (name: "Species", value: "Catalpa ovata"),
     ],
     data: (

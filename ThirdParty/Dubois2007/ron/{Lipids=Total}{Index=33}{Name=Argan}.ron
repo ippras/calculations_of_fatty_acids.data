@@ -5,11 +5,11 @@
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
         (name: "DOI", value: "10.1002/ejlt.200700040"),
         (name: "Date", value: "2007-07-16"),
+        (name: "Genus", value: "Argania"),
         (name: "Group", value: "MUFA + SFA + LA"),
         (name: "Index", value: "33"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Argan"),
-        (name: "Genus", value: "Argania"),
         (name: "Species", value: "Argania spinosa"),
     ],
     data: (

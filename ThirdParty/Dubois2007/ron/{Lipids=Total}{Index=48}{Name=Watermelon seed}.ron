@@ -5,11 +5,11 @@
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
         (name: "DOI", value: "10.1002/ejlt.200700040"),
         (name: "Date", value: "2007-07-16"),
+        (name: "Genus", value: "Citrullus"),
         (name: "Group", value: "LA + SFA"),
         (name: "Index", value: "48"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Watermelon seed"),
-        (name: "Genus", value: "Citrullus"),
         (name: "Species", value: "Citrullus sp."),
     ],
     data: (
