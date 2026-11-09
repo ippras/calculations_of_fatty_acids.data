@@ -7,6 +7,7 @@
         (name: "Index", value: "3375"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "C. ovata"),
+        (name: "Genus", value: "Catalpa"),
         (name: "Species", value: "Catalpa ovata"),
     ],
     data: (

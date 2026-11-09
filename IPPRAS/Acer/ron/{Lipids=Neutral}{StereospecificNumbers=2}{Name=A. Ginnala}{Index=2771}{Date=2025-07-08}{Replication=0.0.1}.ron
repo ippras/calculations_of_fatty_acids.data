@@ -8,6 +8,7 @@
         (name: "Lipids", value: "Neutral"),
         (name: "Name", value: "A. ginnala"),
         (name: "Replication", value: "0.0.1"),
+        (name: "Genus", value: "Acer"),
         (name: "Species", value: "Acer ginnala"),
         (name: "StereospecificNumbers", value: "2"),
     ],

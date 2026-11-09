@@ -8,6 +8,7 @@
         (name: "Lipids", value: "Neutral"),
         (name: "Name", value: "A. ukurunduense"),
         (name: "Replication", value: "0.0.3"),
+        (name: "Genus", value: "Acer"),
         (name: "Species", value: "Acer ukurunduense"),
         (name: "StereospecificNumbers", value: "2"),
     ],

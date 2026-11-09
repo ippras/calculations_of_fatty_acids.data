@@ -8,6 +8,7 @@
         (name: "Lipids", value: "Neutral"),
         (name: "Name", value: "A. rubrum"),
         (name: "Replication", value: "0.0.2"),
+        (name: "Genus", value: "Acer"),
         (name: "Species", value: "Acer rubrum"),
         (name: "StereospecificNumbers", value: "2"),
     ],
