@@ -3,13 +3,13 @@
     meta: [
         (name: "Author", value: "Giorgi Vladimirovich Kazakov"),
         (name: "Author", value: "Roman Alexandrovich Sidorov"),
-        (name: "Lipids", value: "Neutral"),
-        (name: "Date", value: "2024-01-24"),
         (name: "DOI", value: "https://doi.org/10.3390/plants14040612"),
-        (name: "Name", value: "L. rediviva"),
-        (name: "Species", value: "Lunaria rediviva"),
+        (name: "Date", value: "2024-01-24"),
+        (name: "Lipids", value: "Neutral"),
         (name: "Method", value: "TMSH"),
+        (name: "Name", value: "L. rediviva"),
         (name: "Replication", value: "1.3"),
+        (name: "Species", value: "Lunaria rediviva"),
         (name: "StereospecificNumbers", value: "1,2(2,3)"),
     ],
     data: (
