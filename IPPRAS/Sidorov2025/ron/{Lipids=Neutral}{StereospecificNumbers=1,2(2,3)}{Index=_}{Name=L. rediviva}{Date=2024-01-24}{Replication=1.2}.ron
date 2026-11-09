@@ -9,6 +9,7 @@
         (name: "Method", value: "TMSH"),
         (name: "Name", value: "L. rediviva"),
         (name: "Replication", value: "1.2"),
+        (name: "Genus", value: "Lunaria"),
         (name: "Species", value: "Lunaria rediviva"),
         (name: "StereospecificNumbers", value: "1,2(2,3)"),
     ],
