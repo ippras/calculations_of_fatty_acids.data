@@ -6,7 +6,6 @@
         (name: "Date", value: "2025-10-31"),
         (name: "Description", value: "Cat. No. 3675, ВИР 839, Россия"),
         (name: "Genus", value: "Helianthus"),
-        (name: "Index", value: "0"),
         (name: "Lipids", value: "Neutral"),
         (name: "Name", value: "VIR-3675"),
         (name: "Replication", value: "1"),
