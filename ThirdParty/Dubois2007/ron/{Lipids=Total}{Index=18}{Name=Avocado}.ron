@@ -9,6 +9,7 @@
         (name: "Index", value: "18"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Avocado"),
+        (name: "Genus", value: "Persea"),
         (name: "Species", value: "Persea americana"),
     ],
     data: (

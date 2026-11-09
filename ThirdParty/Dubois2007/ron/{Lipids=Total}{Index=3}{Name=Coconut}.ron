@@ -9,6 +9,7 @@
         (name: "Index", value: "3"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Coconut"),
+        (name: "Genus", value: "Cocus"),
         (name: "Species", value: "Cocus nucifera"),
     ],
     data: (

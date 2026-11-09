@@ -9,6 +9,7 @@
         (name: "Index", value: "51"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Niger seed"),
+        (name: "Genus", value: "Guizotia"),
         (name: "Species", value: "Guizotia abyssinica"),
     ],
     data: (

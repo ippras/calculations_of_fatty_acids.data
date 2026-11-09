@@ -9,6 +9,7 @@
         (name: "Index", value: "55"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Corn"),
+        (name: "Genus", value: "Zea"),
         (name: "Species", value: "Zea mays"),
     ],
     data: (

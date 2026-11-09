@@ -9,6 +9,7 @@
         (name: "Index", value: "59"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Pumpkin seed"),
+        (name: "Genus", value: "Cucurbita"),
         (name: "Species", value: "Cucurbita pepo"),
     ],
     data: (

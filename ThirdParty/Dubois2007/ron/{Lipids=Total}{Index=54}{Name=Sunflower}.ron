@@ -9,6 +9,7 @@
         (name: "Index", value: "54"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Sunflower"),
+        (name: "Genus", value: "Helianthus"),
         (name: "Species", value: "Helianthus annuus"),
     ],
     data: (

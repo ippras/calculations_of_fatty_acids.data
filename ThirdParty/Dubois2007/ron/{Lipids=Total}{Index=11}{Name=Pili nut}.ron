@@ -9,6 +9,7 @@
         (name: "Index", value: "11"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Pili nut"),
+        (name: "Genus", value: "Canarium"),
         (name: "Species", value: "Canarium ovatum"),
     ],
     data: (

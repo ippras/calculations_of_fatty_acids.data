@@ -9,6 +9,7 @@
         (name: "Index", value: "24"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Belize"),
+        (name: "Genus", value: "Ximenia"),
         (name: "Species", value: "Ximenia americana"),
     ],
     data: (

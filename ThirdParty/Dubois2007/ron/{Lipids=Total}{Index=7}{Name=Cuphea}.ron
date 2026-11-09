@@ -9,6 +9,7 @@
         (name: "Index", value: "7"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Cuphea"),
+        (name: "Genus", value: "Cuphea"),
         (name: "Species", value: "Cuphea wrightii"),
     ],
     data: (

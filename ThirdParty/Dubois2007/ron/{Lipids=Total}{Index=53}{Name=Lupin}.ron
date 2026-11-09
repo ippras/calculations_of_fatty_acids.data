@@ -9,6 +9,7 @@
         (name: "Index", value: "53"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Lupin"),
+        (name: "Genus", value: "Lupinus"),
         (name: "Species", value: "Lupinus mexicanus"),
     ],
     data: (

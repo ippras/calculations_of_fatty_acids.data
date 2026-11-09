@@ -9,6 +9,7 @@
         (name: "Index", value: "56"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Wheat germ"),
+        (name: "Genus", value: "Triticum"),
         (name: "Species", value: "Triticum aestivum"),
     ],
     data: (

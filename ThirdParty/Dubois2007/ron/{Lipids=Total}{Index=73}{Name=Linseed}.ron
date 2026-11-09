@@ -9,6 +9,7 @@
         (name: "Index", value: "73"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Linseed"),
+        (name: "Genus", value: "Linum"),
         (name: "Species", value: "Linum usitatissimum"),
     ],
     data: (

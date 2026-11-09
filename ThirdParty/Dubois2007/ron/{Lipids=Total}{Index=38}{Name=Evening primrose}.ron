@@ -9,6 +9,7 @@
         (name: "Index", value: "38"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Evening primrose"),
+        (name: "Genus", value: "Oenothera"),
         (name: "Species", value: "Oenothera biennis"),
     ],
     data: (

@@ -9,6 +9,7 @@
         (name: "Index", value: "13"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Shea butter"),
+        (name: "Genus", value: "Vitellaria"),
         (name: "Species", value: "Vitellaria paradoxa"),
     ],
     data: (

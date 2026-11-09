@@ -9,6 +9,7 @@
         (name: "Index", value: "76"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Purslane"),
+        (name: "Genus", value: "Portulaca"),
         (name: "Species", value: "Portulaca oleracea"),
     ],
     data: (

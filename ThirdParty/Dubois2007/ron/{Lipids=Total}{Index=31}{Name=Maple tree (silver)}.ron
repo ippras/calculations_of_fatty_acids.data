@@ -9,6 +9,7 @@
         (name: "Index", value: "31"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Maple tree (silver)"),
+        (name: "Genus", value: "Acer"),
         (name: "Species", value: "Acer saccharinum"),
     ],
     data: (

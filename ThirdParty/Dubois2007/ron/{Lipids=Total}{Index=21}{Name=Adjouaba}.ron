@@ -9,6 +9,7 @@
         (name: "Index", value: "21"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Adjouaba"),
+        (name: "Genus", value: "Haematostaphis"),
         (name: "Species", value: "Haematostaphis barteri"),
     ],
     data: (

@@ -9,6 +9,7 @@
         (name: "Index", value: "27"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Rice bran"),
+        (name: "Genus", value: "Oryza"),
         (name: "Species", value: "Oryza sativa"),
     ],
     data: (

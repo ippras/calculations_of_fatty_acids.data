@@ -9,6 +9,7 @@
         (name: "Index", value: "10"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Palm"),
+        (name: "Genus", value: "Elaeis"),
         (name: "Species", value: "Elaeis guineensis"),
     ],
     data: (

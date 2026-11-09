@@ -9,6 +9,7 @@
         (name: "Index", value: "69"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Hemp"),
+        (name: "Genus", value: "Cannabis"),
         (name: "Species", value: "Cannabis sativa"),
     ],
     data: (

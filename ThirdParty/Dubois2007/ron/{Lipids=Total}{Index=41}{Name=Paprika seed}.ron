@@ -9,6 +9,7 @@
         (name: "Index", value: "41"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Paprika seed"),
+        (name: "Genus", value: "Capsicum"),
         (name: "Species", value: "Capsicum annuum"),
     ],
     data: (

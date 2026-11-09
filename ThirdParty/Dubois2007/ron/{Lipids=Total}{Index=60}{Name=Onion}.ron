@@ -9,6 +9,7 @@
         (name: "Index", value: "60"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Onion"),
+        (name: "Genus", value: "Allium"),
         (name: "Species", value: "Allium cepa"),
     ],
     data: (

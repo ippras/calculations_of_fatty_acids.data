@@ -9,6 +9,7 @@
         (name: "Index", value: "32"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Ratanjyot"),
+        (name: "Genus", value: "Jatropha"),
         (name: "Species", value: "Jatropha curcas"),
     ],
     data: (

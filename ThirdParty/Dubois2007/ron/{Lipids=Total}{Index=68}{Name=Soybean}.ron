@@ -9,6 +9,7 @@
         (name: "Index", value: "68"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Soybean"),
+        (name: "Genus", value: "Glycine"),
         (name: "Species", value: "Glycine max"),
     ],
     data: (

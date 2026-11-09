@@ -9,6 +9,7 @@
         (name: "Index", value: "25"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "White mustard seed"),
+        (name: "Genus", value: "Brassica"),
         (name: "Species", value: "Brassica alba"),
     ],
     data: (

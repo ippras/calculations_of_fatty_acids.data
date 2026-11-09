@@ -9,6 +9,7 @@
         (name: "Index", value: "63"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Quinoa"),
+        (name: "Genus", value: "Chenopodium"),
         (name: "Species", value: "Chenopodium quinua"),
     ],
     data: (

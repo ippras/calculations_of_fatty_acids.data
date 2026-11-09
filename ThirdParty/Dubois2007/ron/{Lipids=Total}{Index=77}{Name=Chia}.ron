@@ -9,6 +9,7 @@
         (name: "Index", value: "77"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Chia"),
+        (name: "Genus", value: "Salvia"),
         (name: "Species", value: "Salvia hispanica"),
     ],
     data: (

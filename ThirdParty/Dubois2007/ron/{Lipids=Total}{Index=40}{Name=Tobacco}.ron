@@ -9,6 +9,7 @@
         (name: "Index", value: "40"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Tobacco"),
+        (name: "Genus", value: "Nicotiana"),
         (name: "Species", value: "Nicotiana tabacum"),
     ],
     data: (

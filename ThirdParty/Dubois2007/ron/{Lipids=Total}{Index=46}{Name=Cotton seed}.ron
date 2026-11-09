@@ -9,6 +9,7 @@
         (name: "Index", value: "46"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Cotton seed"),
+        (name: "Genus", value: "Gossypium"),
         (name: "Species", value: "Gossypium hirsutum"),
     ],
     data: (

@@ -9,6 +9,7 @@
         (name: "Index", value: "33"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Argan"),
+        (name: "Genus", value: "Argania"),
         (name: "Species", value: "Argania spinosa"),
     ],
     data: (

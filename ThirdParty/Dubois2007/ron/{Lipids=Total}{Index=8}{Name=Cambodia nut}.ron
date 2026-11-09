@@ -9,6 +9,7 @@
         (name: "Index", value: "8"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Cambodia nut"),
+        (name: "Genus", value: "Irvingia"),
         (name: "Species", value: "Irvingia malayana"),
     ],
     data: (

@@ -9,6 +9,7 @@
         (name: "Index", value: "45"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Blackcurrant seed"),
+        (name: "Genus", value: "Ribes"),
         (name: "Species", value: "Ribes nigrum"),
     ],
     data: (

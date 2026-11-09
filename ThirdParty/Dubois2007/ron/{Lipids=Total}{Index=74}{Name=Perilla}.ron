@@ -9,6 +9,7 @@
         (name: "Index", value: "74"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Perilla"),
+        (name: "Genus", value: "Perilla"),
         (name: "Species", value: "Perilla frutescens"),
     ],
     data: (

@@ -9,6 +9,7 @@
         (name: "Index", value: "78"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Raspberry seed"),
+        (name: "Genus", value: "Rubus"),
         (name: "Species", value: "Rubus idaeus"),
     ],
     data: (

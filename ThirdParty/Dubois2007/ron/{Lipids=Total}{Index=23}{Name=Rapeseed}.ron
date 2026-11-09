@@ -9,6 +9,7 @@
         (name: "Index", value: "23"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Rapeseed"),
+        (name: "Genus", value: "Brassica"),
         (name: "Species", value: "Brassica napus"),
     ],
     data: (

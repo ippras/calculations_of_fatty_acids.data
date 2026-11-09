@@ -9,6 +9,7 @@
         (name: "Index", value: "42"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Safflower"),
+        (name: "Genus", value: "Carthamus"),
         (name: "Species", value: "Carthamus tintorius"),
     ],
     data: (

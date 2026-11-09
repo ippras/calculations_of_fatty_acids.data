@@ -9,6 +9,7 @@
         (name: "Index", value: "57"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Artichoke"),
+        (name: "Genus", value: "Cynara"),
         (name: "Species", value: "Cynara scolymus"),
     ],
     data: (

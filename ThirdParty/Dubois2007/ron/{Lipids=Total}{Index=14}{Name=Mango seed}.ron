@@ -9,6 +9,7 @@
         (name: "Index", value: "14"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Mango seed"),
+        (name: "Genus", value: "Mangifer"),
         (name: "Species", value: "Mangifer indica"),
     ],
     data: (

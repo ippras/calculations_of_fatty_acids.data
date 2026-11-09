@@ -9,6 +9,7 @@
         (name: "Index", value: "65"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Amaranth"),
+        (name: "Genus", value: "Amaranthus"),
         (name: "Species", value: "Amaranthus cruentus"),
     ],
     data: (

@@ -9,6 +9,7 @@
         (name: "Index", value: "22"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Crambe"),
+        (name: "Genus", value: "Crambe"),
         (name: "Species", value: "Crambe abyssinica"),
     ],
     data: (

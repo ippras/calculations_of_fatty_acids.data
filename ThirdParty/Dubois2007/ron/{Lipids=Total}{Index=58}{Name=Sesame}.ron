@@ -9,6 +9,7 @@
         (name: "Index", value: "58"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Sesame"),
+        (name: "Genus", value: "Sesamum"),
         (name: "Species", value: "Sesamum indicum"),
     ],
     data: (

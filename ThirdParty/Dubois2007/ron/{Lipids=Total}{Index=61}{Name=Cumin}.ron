@@ -9,6 +9,7 @@
         (name: "Index", value: "61"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Cumin"),
+        (name: "Genus", value: "Cuminum"),
         (name: "Species", value: "Cuminum cymimum"),
     ],
     data: (

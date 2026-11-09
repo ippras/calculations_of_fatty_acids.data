@@ -9,6 +9,7 @@
         (name: "Index", value: "16"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Hazelnut"),
+        (name: "Genus", value: "Corylus"),
         (name: "Species", value: "Corylus avellana"),
     ],
     data: (

@@ -9,6 +9,7 @@
         (name: "Index", value: "34"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Gokhru"),
+        (name: "Genus", value: "Tribulus"),
         (name: "Species", value: "Tribulus terrestris"),
     ],
     data: (

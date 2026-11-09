@@ -9,6 +9,7 @@
         (name: "Index", value: "39"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Melon seed"),
+        (name: "Genus", value: "Cucumis"),
         (name: "Species", value: "Cucumis melo"),
     ],
     data: (

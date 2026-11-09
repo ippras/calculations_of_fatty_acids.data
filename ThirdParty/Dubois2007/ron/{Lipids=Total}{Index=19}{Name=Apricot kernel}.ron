@@ -9,6 +9,7 @@
         (name: "Index", value: "19"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Apricot kernel"),
+        (name: "Genus", value: "Prunus"),
         (name: "Species", value: "Prunus armeniaca"),
     ],
     data: (

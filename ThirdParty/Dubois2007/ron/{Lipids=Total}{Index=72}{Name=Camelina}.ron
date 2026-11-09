@@ -9,6 +9,7 @@
         (name: "Index", value: "72"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Camelina"),
+        (name: "Genus", value: "Camelina"),
         (name: "Species", value: "Camelina sativa"),
     ],
     data: (

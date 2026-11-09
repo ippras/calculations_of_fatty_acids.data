@@ -9,6 +9,7 @@
         (name: "Index", value: "66"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "African bean"),
+        (name: "Genus", value: "Pentaclethra"),
         (name: "Species", value: "Pentaclethra macrophylla"),
     ],
     data: (

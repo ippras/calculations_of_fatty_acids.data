@@ -9,6 +9,7 @@
         (name: "Index", value: "30"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Pistachio"),
+        (name: "Genus", value: "Pistacia"),
         (name: "Species", value: "Pistacia atlantica"),
     ],
     data: (

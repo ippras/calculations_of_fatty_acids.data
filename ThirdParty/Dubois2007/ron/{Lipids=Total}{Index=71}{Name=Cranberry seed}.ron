@@ -9,6 +9,7 @@
         (name: "Index", value: "71"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Cranberry seed"),
+        (name: "Genus", value: "Vaccinium"),
         (name: "Species", value: "Vaccinium oxycoccos"),
     ],
     data: (

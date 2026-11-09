@@ -9,6 +9,7 @@
         (name: "Index", value: "79"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Sea buckthorn seed"),
+        (name: "Genus", value: "Hippophae"),
         (name: "Species", value: "Hippophae rhamnoides"),
     ],
     data: (

@@ -9,6 +9,7 @@
         (name: "Index", value: "28"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Oats"),
+        (name: "Genus", value: "Avena"),
         (name: "Species", value: "Avena sativa"),
     ],
     data: (

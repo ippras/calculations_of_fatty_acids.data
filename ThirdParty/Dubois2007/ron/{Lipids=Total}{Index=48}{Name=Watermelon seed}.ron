@@ -9,6 +9,7 @@
         (name: "Index", value: "48"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Watermelon seed"),
+        (name: "Genus", value: "Citrullus"),
         (name: "Species", value: "Citrullus sp."),
     ],
     data: (

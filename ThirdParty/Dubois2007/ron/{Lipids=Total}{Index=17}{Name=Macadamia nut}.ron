@@ -9,6 +9,7 @@
         (name: "Index", value: "17"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Macadamia nut"),
+        (name: "Genus", value: "Macadamia"),
         (name: "Species", value: "Macadamia tetraphylla"),
     ],
     data: (

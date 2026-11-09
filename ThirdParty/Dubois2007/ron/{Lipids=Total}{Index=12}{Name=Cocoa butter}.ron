@@ -9,6 +9,7 @@
         (name: "Index", value: "12"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Cocoa butter"),
+        (name: "Genus", value: "Theobroma"),
         (name: "Species", value: "Theobroma cacao"),
     ],
     data: (

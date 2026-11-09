@@ -9,6 +9,7 @@
         (name: "Index", value: "20"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Chufa"),
+        (name: "Genus", value: "Cyperus"),
         (name: "Species", value: "Cyperus esculentus"),
     ],
     data: (

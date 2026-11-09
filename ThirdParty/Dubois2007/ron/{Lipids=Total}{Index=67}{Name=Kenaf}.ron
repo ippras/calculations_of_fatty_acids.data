@@ -9,6 +9,7 @@
         (name: "Index", value: "67"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Kenaf"),
+        (name: "Genus", value: "Hibiscus"),
         (name: "Species", value: "Hibiscus cannabinus"),
     ],
     data: (

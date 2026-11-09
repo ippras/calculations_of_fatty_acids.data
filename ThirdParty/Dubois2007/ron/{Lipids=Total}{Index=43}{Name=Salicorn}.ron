@@ -9,6 +9,7 @@
         (name: "Index", value: "43"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Salicorn"),
+        (name: "Genus", value: "Salicornia"),
         (name: "Species", value: "Salicornia bigelovii"),
     ],
     data: (

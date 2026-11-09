@@ -9,6 +9,7 @@
         (name: "Index", value: "37"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Grape seed"),
+        (name: "Genus", value: "Vitis"),
         (name: "Species", value: "Vitis vinifera"),
     ],
     data: (

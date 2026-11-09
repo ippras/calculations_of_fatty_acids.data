@@ -9,6 +9,7 @@
         (name: "Index", value: "70"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Fenugreek"),
+        (name: "Genus", value: "Trigonella"),
         (name: "Species", value: "Trigonella foenum-graecum"),
     ],
     data: (

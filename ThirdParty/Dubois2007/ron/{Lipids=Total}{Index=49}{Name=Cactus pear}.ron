@@ -9,6 +9,7 @@
         (name: "Index", value: "49"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Cactus pear"),
+        (name: "Genus", value: "Opuntia"),
         (name: "Species", value: "Opuntia ficus-indica"),
     ],
     data: (

@@ -9,6 +9,7 @@
         (name: "Index", value: "75"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Stock"),
+        (name: "Genus", value: "Matthiola"),
         (name: "Species", value: "Matthiola tricuspidata"),
     ],
     data: (

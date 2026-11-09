@@ -9,6 +9,7 @@
         (name: "Index", value: "52"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Walnut"),
+        (name: "Genus", value: "Juglans"),
         (name: "Species", value: "Juglans regia"),
     ],
     data: (

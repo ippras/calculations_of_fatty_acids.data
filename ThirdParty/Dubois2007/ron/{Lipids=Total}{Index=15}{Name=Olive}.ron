@@ -9,6 +9,7 @@
         (name: "Index", value: "15"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Olive"),
+        (name: "Genus", value: "Olea"),
         (name: "Species", value: "Olea europaea"),
     ],
     data: (

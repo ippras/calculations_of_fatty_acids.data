@@ -9,6 +9,7 @@
         (name: "Index", value: "9"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Babassu"),
+        (name: "Genus", value: "Orbignya"),
         (name: "Species", value: "Orbignya oleifera"),
     ],
     data: (

@@ -9,6 +9,7 @@
         (name: "Index", value: "26"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Peanut"),
+        (name: "Genus", value: "Arachis"),
         (name: "Species", value: "Arachis hypogea"),
     ],
     data: (

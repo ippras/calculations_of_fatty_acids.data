@@ -9,6 +9,7 @@
         (name: "Index", value: "29"),
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "Buckwheat"),
+        (name: "Genus", value: "Polygonum"),
         (name: "Species", value: "Polygonum fagopyrum"),
     ],
     data: (
