@@ -9,6 +9,7 @@
         (name: "Lipids", value: "Total"),
         (name: "Name", value: "C-108"),
         (name: "Replication", value: "3"),
+        (name: "Genus", value: "Chromochloris"),
         (name: "Species", value: "Chromochloris zofingiensis"),
         (name: "Standard", value: "100μg"),
         (name: "Standard", value: "Margaric"),

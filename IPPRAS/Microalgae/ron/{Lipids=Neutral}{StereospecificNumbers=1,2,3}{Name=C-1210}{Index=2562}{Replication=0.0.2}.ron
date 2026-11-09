@@ -9,6 +9,7 @@
         (name: "Lipids", value: "Neutral"),
         (name: "Name", value: "C-1210"),
         (name: "Replication", value: "2"),
+        (name: "Genus", value: "Neochlorella"),
         (name: "Species", value: "Neochlorella semenenkoi"),
         (name: "StereospecificNumbers", value: "1,2,3"),
         (name: "URL", value: "https://cellreg.org/Catalog_2020/Catalog NEW/IPPAS C-1210.html"),

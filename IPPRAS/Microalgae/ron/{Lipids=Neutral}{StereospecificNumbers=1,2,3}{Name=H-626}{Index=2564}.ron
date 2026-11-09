@@ -8,6 +8,7 @@
         (name: "Index", value: "2564"),
         (name: "Lipids", value: "Neutral"),
         (name: "Name", value: "H-626"),
+        (name: "Genus", value: "Coelastrella"),
         (name: "Species", value: "Coelastrella affinis"),
         (name: "StereospecificNumbers", value: "1,2,3"),
         (name: "URL", value: "https://cellreg.org/Catalog_2020/Catalog NEW/IPPAS H-626.html"),
