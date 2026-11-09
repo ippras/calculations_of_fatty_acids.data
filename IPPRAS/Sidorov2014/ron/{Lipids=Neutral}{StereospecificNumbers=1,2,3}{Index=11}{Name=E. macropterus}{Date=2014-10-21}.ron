@@ -8,6 +8,7 @@
         (name: "Index", value: "11"),
         (name: "Lipids", value: "Neutral"),
         (name: "Name", value: "E. macropterus"),
+        (name: "Genus", value: "Euonymus"),
         (name: "Species", value: "Euonymus macropterus"),
         (name: "StereospecificNumbers", value: "1,2,3"),
     ],

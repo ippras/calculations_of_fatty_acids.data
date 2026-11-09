@@ -8,6 +8,7 @@
         (name: "Index", value: "10"),
         (name: "Lipids", value: "Neutral"),
         (name: "Name", value: "E. latifolius"),
+        (name: "Genus", value: "Euonymus"),
         (name: "Species", value: "Euonymus latifolius"),
         (name: "StereospecificNumbers", value: "2"),
     ],

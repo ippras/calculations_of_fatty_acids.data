@@ -8,6 +8,7 @@
         (name: "Index", value: "6"),
         (name: "Lipids", value: "Neutral"),
         (name: "Name", value: "E. sieboldianus"),
+        (name: "Genus", value: "Euonymus"),
         (name: "Species", value: "Euonymus sieboldianus"),
         (name: "StereospecificNumbers", value: "2"),
     ],

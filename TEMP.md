@@ -55,29 +55,8 @@ TMSH
 на среде тамия
 на среде bbm
 
-bungeanus
-europaeus
-hamiltonianus
-phellomanus
-semiexsertus
-sieboldianus
-alatus
-sacrosanctus
-pauciflorus
-latifolius
-macropterus
-maximowiczianus
-sachalinensis
-bungeanus
-europaeus
-hamiltonianus
-phellomanus
-semiexsertus
-sieboldianus
-alatus
-sacrosanctus
-pauciflorus
-latifolius
-macropterus
-maximowiczianus
-sachalinensis
+`(        \(name: "Species", value: "(\S*).*"\),)`
+```
+        (name: "Genus", value: "$2"),
+$1
+```
