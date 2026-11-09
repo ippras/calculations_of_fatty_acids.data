@@ -8,6 +8,7 @@
         (name: "Lipids", value: "Neutral"),
         (name: "Name", value: "VNIIMK-5"),
         (name: "Replication", value: "0.0.3"),
+        (name: "Genus", value: "Helianthus"),
         (name: "Species", value: "Helianthus annuus"),
         (name: "StereospecificNumbers", value: "1,2(2,3)"),
     ],
