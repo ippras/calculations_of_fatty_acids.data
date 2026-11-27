@@ -19,64 +19,32 @@ DOI,Index,Date,Genus,Species,Name,Lipid,Method,Label,FattyAcid,Value
 10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Total,Experimental,Juniperonic,"{""Carbon"":20,""Indices"":[{""Index"":5,""Triple"":false,""Parity"":false},{""Index"":11,""Triple"":false,""Parity"":false},{""Index"":14,""Triple"":false,""Parity"":false},{""Index"":17,""Triple"":false,""Parity"":false}]}",0.44
 ```
 
-Из таблиц [TABLE 1, TABLE 2, TABLE 5, TABLE 6] нужно создать следующиего вида csv:
-
-sn-2 взять "Via pancreatic lipase hydrolysis"
+Из таблиц [Table 2] нужно создать следующиего вида csv:
 
 `{Lipid=Triacylglycerol}{Index=1}{Name=Commodity}.csv`
 
 ```
 DOI,Index,Date,Genus,Species,Name,Lipid,StereospecificNumbers,Method,Label,FattyAcid,Value
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,"1,2,3",Experimental,Palmitic,"{""Carbon"":16,""Indices"":[]}",9.01
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,"1,2,3",Experimental,Palmitoleic,"{""Carbon"":16,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.13
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,"1,2,3",Experimental,Heptadecanoic,"{""Carbon"":17,""Indices"":[]}",0.11
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,"1,2,3",Experimental,Stearic,"{""Carbon"":18,""Indices"":[]}",2.88
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,"1,2,3",Experimental,Oleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",22.24
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,"1,2,3",Experimental,Linoleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",44.91
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,"1,2,3",Experimental,Pinolenic,"{""Carbon"":18,""Indices"":[{""Index"":5,""Triple"":false,""Parity"":false},{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",0.41
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,"1,2,3",Experimental,Eicosenoic (cis-11),"{""Carbon"":20,""Indices"":[{""Index"":11,""Triple"":false,""Parity"":false}]}",0.12
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,"1,2,3",Experimental,Linolenic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false},{""Index"":15,""Triple"":false,""Parity"":false}]}",0.65
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,"1,2,3",Experimental,"Eicosadienoic (cis-8,11)","{""Carbon"":20,""Indices"":[{""Index"":8,""Triple"":false,""Parity"":false},{""Index"":11,""Triple"":false,""Parity"":false}]}",0.79
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,"1,2,3",Experimental,"Eicosadienoic (cis-11,14)","{""Carbon"":20,""Indices"":[{""Index"":11,""Triple"":false,""Parity"":false},{""Index"":14,""Triple"":false,""Parity"":false}]}",2.72
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,"1,2,3",Experimental,Sciadonic,"{""Carbon"":20,""Indices"":[{""Index"":5,""Triple"":false,""Parity"":false},{""Index"":11,""Triple"":false,""Parity"":false},{""Index"":14,""Triple"":false,""Parity"":false}]}",14.5
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,"1,2,3",Experimental,Juniperonic,"{""Carbon"":20,""Indices"":[{""Index"":5,""Triple"":false,""Parity"":false},{""Index"":11,""Triple"":false,""Parity"":false},{""Index"":14,""Triple"":false,""Parity"":false},{""Index"":17,""Triple"":false,""Parity"":false}]}",0.44
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,1,Experimental,Palmitic,"{""Carbon"":16,""Indices"":[]}",29.64
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,1,Experimental,Palmitoleic,"{""Carbon"":16,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,1,Experimental,Heptadecanoic,"{""Carbon"":17,""Indices"":[]}",
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,1,Experimental,Stearic,"{""Carbon"":18,""Indices"":[]}",17.13
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,1,Experimental,Oleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",22.26
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,1,Experimental,Linoleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",16.44
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,1,Experimental,Pinolenic,"{""Carbon"":18,""Indices"":[{""Index"":5,""Triple"":false,""Parity"":false},{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",0.51
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,1,Experimental,Eicosenoic (cis-11),"{""Carbon"":20,""Indices"":[{""Index"":11,""Triple"":false,""Parity"":false}]}",
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,1,Experimental,Linolenic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false},{""Index"":15,""Triple"":false,""Parity"":false}]}",5.49
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,1,Experimental,"Eicosadienoic (cis-8,11)","{""Carbon"":20,""Indices"":[{""Index"":8,""Triple"":false,""Parity"":false},{""Index"":11,""Triple"":false,""Parity"":false}]}",1.32
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,1,Experimental,"Eicosadienoic (cis-11,14)","{""Carbon"":20,""Indices"":[{""Index"":11,""Triple"":false,""Parity"":false},{""Index"":14,""Triple"":false,""Parity"":false}]}",1.89
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,1,Experimental,Sciadonic,"{""Carbon"":20,""Indices"":[{""Index"":5,""Triple"":false,""Parity"":false},{""Index"":11,""Triple"":false,""Parity"":false},{""Index"":14,""Triple"":false,""Parity"":false}]}",5.1
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,1,Experimental,Juniperonic,"{""Carbon"":20,""Indices"":[{""Index"":5,""Triple"":false,""Parity"":false},{""Index"":11,""Triple"":false,""Parity"":false},{""Index"":14,""Triple"":false,""Parity"":false},{""Index"":17,""Triple"":false,""Parity"":false}]}",
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,2,Experimental,Palmitic,"{""Carbon"":16,""Indices"":[]}",1.89
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,2,Experimental,Palmitoleic,"{""Carbon"":16,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,2,Experimental,Heptadecanoic,"{""Carbon"":17,""Indices"":[]}",
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,2,Experimental,Stearic,"{""Carbon"":18,""Indices"":[]}",1.32
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,2,Experimental,Oleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",40.74
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,2,Experimental,Linoleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",47.85
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,2,Experimental,Pinolenic,"{""Carbon"":18,""Indices"":[{""Index"":5,""Triple"":false,""Parity"":false},{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",0.09
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,2,Experimental,Eicosenoic (cis-11),"{""Carbon"":20,""Indices"":[{""Index"":11,""Triple"":false,""Parity"":false}]}",
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,2,Experimental,Linolenic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false},{""Index"":15,""Triple"":false,""Parity"":false}]}",
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,2,Experimental,"Eicosadienoic (cis-8,11)","{""Carbon"":20,""Indices"":[{""Index"":8,""Triple"":false,""Parity"":false},{""Index"":11,""Triple"":false,""Parity"":false}]}",0.15
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,2,Experimental,"Eicosadienoic (cis-11,14)","{""Carbon"":20,""Indices"":[{""Index"":11,""Triple"":false,""Parity"":false},{""Index"":14,""Triple"":false,""Parity"":false}]}",3.69
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,2,Experimental,Sciadonic,"{""Carbon"":20,""Indices"":[{""Index"":5,""Triple"":false,""Parity"":false},{""Index"":11,""Triple"":false,""Parity"":false},{""Index"":14,""Triple"":false,""Parity"":false}]}",2.4
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,2,Experimental,Juniperonic,"{""Carbon"":20,""Indices"":[{""Index"":5,""Triple"":false,""Parity"":false},{""Index"":11,""Triple"":false,""Parity"":false},{""Index"":14,""Triple"":false,""Parity"":false},{""Index"":17,""Triple"":false,""Parity"":false}]}",1.14
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,3,Calculated,Palmitic,"{""Carbon"":16,""Indices"":[]}",-4.5
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,3,Calculated,Palmitoleic,"{""Carbon"":16,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.39
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,3,Calculated,Heptadecanoic,"{""Carbon"":17,""Indices"":[]}",0.33
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,3,Calculated,Stearic,"{""Carbon"":18,""Indices"":[]}",-9.81
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,3,Calculated,Oleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",3.72
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,3,Calculated,Linoleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",70.41
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,3,Calculated,Pinolenic,"{""Carbon"":18,""Indices"":[{""Index"":5,""Triple"":false,""Parity"":false},{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",0.66
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,3,Calculated,Eicosenoic (cis-11),"{""Carbon"":20,""Indices"":[{""Index"":11,""Triple"":false,""Parity"":false}]}",0.36
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,3,Calculated,Linolenic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false},{""Index"":15,""Triple"":false,""Parity"":false}]}",-3.54
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,3,Calculated,"Eicosadienoic (cis-8,11)","{""Carbon"":20,""Indices"":[{""Index"":8,""Triple"":false,""Parity"":false},{""Index"":11,""Triple"":false,""Parity"":false}]}",0.9
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,3,Calculated,"Eicosadienoic (cis-11,14)","{""Carbon"":20,""Indices"":[{""Index"":11,""Triple"":false,""Parity"":false},{""Index"":14,""Triple"":false,""Parity"":false}]}",2.58
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,3,Calculated,Sciadonic,"{""Carbon"":20,""Indices"":[{""Index"":5,""Triple"":false,""Parity"":false},{""Index"":11,""Triple"":false,""Parity"":false},{""Index"":14,""Triple"":false,""Parity"":false}]}",36.0
-10.1016/j.indcrop.2019.111917,1,2020-01-01,Torreya,Torreya grandis,Mufei,Triacylglycerol,3,Calculated,Juniperonic,"{""Carbon"":20,""Indices"":[{""Index"":5,""Triple"":false,""Parity"":false},{""Index"":11,""Triple"":false,""Parity"":false},{""Index"":14,""Triple"":false,""Parity"":false},{""Index"":17,""Triple"":false,""Parity"":false}]}",0.18
+10.1007/s11746-997-0016-1,1,1997-08-01,Helianthus,Helianthus annuus,Commodity,Triacylglycerol,"1,2,3",Experimental,Myristic,"{""Carbon"":14,""Indices"":[]}",0.001
+10.1007/s11746-997-0016-1,1,1997-08-01,Helianthus,Helianthus annuus,Commodity,Triacylglycerol,"1,2,3",Experimental,Palmitic,"{""Carbon"":16,""Indices"":[]}",0.07
+10.1007/s11746-997-0016-1,1,1997-08-01,Helianthus,Helianthus annuus,Commodity,Triacylglycerol,"1,2,3",Experimental,Palmitoleic,"{""Carbon"":16,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.002
+10.1007/s11746-997-0016-1,1,1997-08-01,Helianthus,Helianthus annuus,Commodity,Triacylglycerol,"1,2,3",Experimental,Stearic,"{""Carbon"":18,""Indices"":[]}",0.048
+10.1007/s11746-997-0016-1,1,1997-08-01,Helianthus,Helianthus annuus,Commodity,Triacylglycerol,"1,2,3",Experimental,Oleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.278
+10.1007/s11746-997-0016-1,1,1997-08-01,Helianthus,Helianthus annuus,Commodity,Triacylglycerol,"1,2,3",Experimental,Linoleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",0.587
+10.1007/s11746-997-0016-1,1,1997-08-01,Helianthus,Helianthus annuus,Commodity,Triacylglycerol,"1,2,3",Experimental,Linolenic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false},{""Index"":15,""Triple"":false,""Parity"":false}]}",0.001
+10.1007/s11746-997-0016-1,1,1997-08-01,Helianthus,Helianthus annuus,Commodity,Triacylglycerol,"1,2,3",Experimental,Arachidic,"{""Carbon"":20,""Indices"":[]}",0.003
+10.1007/s11746-997-0016-1,1,1997-08-01,Helianthus,Helianthus annuus,Commodity,Triacylglycerol,"1,2,3",Experimental,Eicosenoic (cis-11),"{""Carbon"":20,""Indices"":[{""Index"":11,""Triple"":false,""Parity"":false}]}",0.001
+10.1007/s11746-997-0016-1,1,1997-08-01,Helianthus,Helianthus annuus,Commodity,Triacylglycerol,"1,2,3",Experimental,Behenic,"{""Carbon"":22,""Indices"":[]}",0.007
+10.1007/s11746-997-0016-1,1,1997-08-01,Helianthus,Helianthus annuus,Commodity,Triacylglycerol,"1,2,3",Experimental,Erucic (cis-13),"{""Carbon"":22,""Indices"":[{""Index"":13,""Triple"":false,""Parity"":false}]}",0.001
+10.1007/s11746-997-0016-1,1,1997-08-01,Helianthus,Helianthus annuus,Commodity,Triacylglycerol,"1,2,3",Experimental,Lignoceric,"{""Carbon"":24,""Indices"":[]}",0.003
+10.1007/s11746-997-0016-1,1,1997-08-01,Helianthus,Helianthus annuus,Commodity,Triacylglycerol,1,Experimental,Palmitic,"{""Carbon"":16,""Indices"":[]}",0.109
+10.1007/s11746-997-0016-1,1,1997-08-01,Helianthus,Helianthus annuus,Commodity,Triacylglycerol,1,Experimental,Palmitoleic,"{""Carbon"":16,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.006
+10.1007/s11746-997-0016-1,1,1997-08-01,Helianthus,Helianthus annuus,Commodity,Triacylglycerol,1,Experimental,Stearic,"{""Carbon"":18,""Indices"":[]}",0.019
+10.1007/s11746-997-0016-1,1,1997-08-01,Helianthus,Helianthus annuus,Commodity,Triacylglycerol,1,Experimental,Oleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.171
+10.1007/s11746-997-0016-1,1,1997-08-01,Helianthus,Helianthus annuus,Commodity,Triacylglycerol,1,Experimental,Linoleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",0.7
+10.1007/s11746-997-0016-1,1,1997-08-01,Helianthus,Helianthus annuus,Commodity,Triacylglycerol,2,Experimental,Palmitic,"{""Carbon"":16,""Indices"":[]}",0.014
+10.1007/s11746-997-0016-1,1,1997-08-01,Helianthus,Helianthus annuus,Commodity,Triacylglycerol,2,Experimental,Palmitoleic,"{""Carbon"":16,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.004
+10.1007/s11746-997-0016-1,1,1997-08-01,Helianthus,Helianthus annuus,Commodity,Triacylglycerol,2,Experimental,Stearic,"{""Carbon"":18,""Indices"":[]}",0.012
+10.1007/s11746-997-0016-1,1,1997-08-01,Helianthus,Helianthus annuus,Commodity,Triacylglycerol,2,Experimental,Oleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.315
+10.1007/s11746-997-0016-1,1,1997-08-01,Helianthus,Helianthus annuus,Commodity,Triacylglycerol,2,Experimental,Linoleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",0.657
 ```
