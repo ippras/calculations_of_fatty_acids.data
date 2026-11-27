@@ -1,4 +1,4 @@
-DOI,Index,Date,Genus,Species,Name,Lipid,Method,Label,FattyAcid,Value
+﻿DOI,Index,Date,Genus,Species,Name,Lipid,Method,Label,FattyAcid,Value
 10.1016/j.indcrop.2019.111917,4,2020-01-01,Torreya,Torreya grandis,Xifei,Total,Experimental,Palmitic,"{""Carbon"":16,""Indices"":[]}",8.94
 10.1016/j.indcrop.2019.111917,4,2020-01-01,Torreya,Torreya grandis,Xifei,Total,Experimental,Palmitoleic,"{""Carbon"":16,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.06
 10.1016/j.indcrop.2019.111917,4,2020-01-01,Torreya,Torreya grandis,Xifei,Total,Experimental,Heptadecanoic,"{""Carbon"":17,""Indices"":[]}",0.07

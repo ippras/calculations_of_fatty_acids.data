@@ -1,7 +1,7 @@
-DOI,Index,Date,Genus,Species,Name,Lipid,Method,Label,FattyAcid,Value
+﻿DOI,Index,Date,Genus,Species,Name,Lipid,Method,Label,FattyAcid,Value
 10.1016/j.indcrop.2019.111917,3,2020-01-01,Torreya,Torreya grandis,Xiangyafei,Total,Experimental,Palmitic,"{""Carbon"":16,""Indices"":[]}",9.22
 10.1016/j.indcrop.2019.111917,3,2020-01-01,Torreya,Torreya grandis,Xiangyafei,Total,Experimental,Palmitoleic,"{""Carbon"":16,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.04
-10.1016/j.indcrop.2019.111917,3,2020-01-01,Torreya,Torreya grandis,Xiangyafei,Total,Experimental,Heptadecanoic,"{""Carbon"":17,""Indices"":[]}",0.10
+10.1016/j.indcrop.2019.111917,3,2020-01-01,Torreya,Torreya grandis,Xiangyafei,Total,Experimental,Heptadecanoic,"{""Carbon"":17,""Indices"":[]}",0.1
 10.1016/j.indcrop.2019.111917,3,2020-01-01,Torreya,Torreya grandis,Xiangyafei,Total,Experimental,Stearic,"{""Carbon"":18,""Indices"":[]}",3.56
 10.1016/j.indcrop.2019.111917,3,2020-01-01,Torreya,Torreya grandis,Xiangyafei,Total,Experimental,Oleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",39.36
 10.1016/j.indcrop.2019.111917,3,2020-01-01,Torreya,Torreya grandis,Xiangyafei,Total,Experimental,Linoleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",31.95
