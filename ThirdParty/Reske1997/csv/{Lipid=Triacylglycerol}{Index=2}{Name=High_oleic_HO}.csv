@@ -1,28 +1,28 @@
 ﻿DOI,Index,Date,Genus,Species,Name,Lipid,StereospecificNumbers,Method,Label,FattyAcid,Value
 10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,"1,2,3",Experimental,Myristic,"{""Carbon"":14,""Indices"":[]}",0.0
-10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,"1,2,3",Experimental,Palmitic,"{""Carbon"":16,""Indices"":[]}",3.1
-10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,"1,2,3",Experimental,Palmitoleic,"{""Carbon"":16,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.1
-10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,"1,2,3",Experimental,Stearic,"{""Carbon"":18,""Indices"":[]}",1.5
-10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,"1,2,3",Experimental,Oleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",91.5
-10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,"1,2,3",Experimental,Linoleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",2.1
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,"1,2,3",Experimental,Palmitic,"{""Carbon"":16,""Indices"":[]}",0.031
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,"1,2,3",Experimental,Palmitoleic,"{""Carbon"":16,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.001
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,"1,2,3",Experimental,Stearic,"{""Carbon"":18,""Indices"":[]}",0.015
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,"1,2,3",Experimental,Oleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.915
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,"1,2,3",Experimental,Linoleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",0.021
 10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,"1,2,3",Experimental,Linolenic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false},{""Index"":15,""Triple"":false,""Parity"":false}]}",0.0
-10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,"1,2,3",Experimental,Arachidic,"{""Carbon"":20,""Indices"":[]}",0.2
-10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,"1,2,3",Experimental,Eicosenoic (cis-11),"{""Carbon"":20,""Indices"":[{""Index"":11,""Triple"":false,""Parity"":false}]}",0.4
-10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,"1,2,3",Experimental,Behenic,"{""Carbon"":22,""Indices"":[]}",0.7
-10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,"1,2,3",Experimental,Erucic (cis-13),"{""Carbon"":22,""Indices"":[{""Index"":13,""Triple"":false,""Parity"":false}]}",0.1
-10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,"1,2,3",Experimental,Lignoceric,"{""Carbon"":24,""Indices"":[]}",0.3
-10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,1,Experimental,Palmitic,"{""Carbon"":16,""Indices"":[]}",3.5
-10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,1,Experimental,Palmitoleic,"{""Carbon"":16,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.3
-10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,1,Experimental,Stearic,"{""Carbon"":18,""Indices"":[]}",0.4
-10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,1,Experimental,Oleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",93.2
-10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,1,Experimental,Linoleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",2.6
-10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,2,Experimental,Palmitic,"{""Carbon"":16,""Indices"":[]}",1.0
-10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,2,Experimental,Palmitoleic,"{""Carbon"":16,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.3
-10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,2,Experimental,Stearic,"{""Carbon"":18,""Indices"":[]}",0.8
-10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,2,Experimental,Oleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",96.6
-10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,2,Experimental,Linoleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",1.4
-10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,3,Experimental,Palmitic,"{""Carbon"":16,""Indices"":[]}",5.5
-10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,3,Experimental,Palmitoleic,"{""Carbon"":16,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.3
-10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,3,Experimental,Stearic,"{""Carbon"":18,""Indices"":[]}",2.9
-10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,3,Experimental,Oleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",88.8
-10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,3,Experimental,Linoleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",2.5
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,"1,2,3",Experimental,Arachidic,"{""Carbon"":20,""Indices"":[]}",0.002
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,"1,2,3",Experimental,Eicosenoic (cis-11),"{""Carbon"":20,""Indices"":[{""Index"":11,""Triple"":false,""Parity"":false}]}",0.004
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,"1,2,3",Experimental,Behenic,"{""Carbon"":22,""Indices"":[]}",0.007
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,"1,2,3",Experimental,Erucic (cis-13),"{""Carbon"":22,""Indices"":[{""Index"":13,""Triple"":false,""Parity"":false}]}",0.001
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,"1,2,3",Experimental,Lignoceric,"{""Carbon"":24,""Indices"":[]}",0.003
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,1,Experimental,Palmitic,"{""Carbon"":16,""Indices"":[]}",0.035
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,1,Experimental,Palmitoleic,"{""Carbon"":16,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.003
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,1,Experimental,Stearic,"{""Carbon"":18,""Indices"":[]}",0.004
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,1,Experimental,Oleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.932
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,1,Experimental,Linoleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",0.026
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,2,Experimental,Palmitic,"{""Carbon"":16,""Indices"":[]}",0.01
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,2,Experimental,Palmitoleic,"{""Carbon"":16,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.003
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,2,Experimental,Stearic,"{""Carbon"":18,""Indices"":[]}",0.008
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,2,Experimental,Oleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.966
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,2,Experimental,Linoleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",0.014
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,3,Experimental,Palmitic,"{""Carbon"":16,""Indices"":[]}",0.055
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,3,Experimental,Palmitoleic,"{""Carbon"":16,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.003
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,3,Experimental,Stearic,"{""Carbon"":18,""Indices"":[]}",0.029
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,3,Experimental,Oleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.888
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,Helianthus annuus,High oleic (HO),Triacylglycerol,3,Experimental,Linoleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",0.025
