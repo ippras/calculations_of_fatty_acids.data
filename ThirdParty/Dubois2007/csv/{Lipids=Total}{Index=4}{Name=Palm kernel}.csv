@@ -1,23 +1,23 @@
 ﻿DOI,Index,Date,Group,Genus,Species,Name,Lipid,Label,FattyAcid,Value
-10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,Caprylic,"{""Carbon"": 8, ""Indices"": []}",4.1
-10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,Capric,"{""Carbon"": 10, ""Indices"": []}",3.7
-10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,Lauric,"{""Carbon"": 12, ""Indices"": []}",46.0
-10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,Myristic,"{""Carbon"": 14, ""Indices"": []}",17.8
-10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",8.4
-10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,Stearic,"{""Carbon"": 18, ""Indices"": []}",1.6
+10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,Caprylic,"{""Carbon"": 8, ""Indices"": []}",0.041
+10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,Capric,"{""Carbon"": 10, ""Indices"": []}",0.037
+10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,Lauric,"{""Carbon"": 12, ""Indices"": []}",0.46
+10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,Myristic,"{""Carbon"": 14, ""Indices"": []}",0.178
+10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.084
+10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,Stearic,"{""Carbon"": 18, ""Indices"": []}",0.016
 10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,Arachidic,"{""Carbon"": 20, ""Indices"": []}",
 10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,Behenic,"{""Carbon"": 22, ""Indices"": []}",
 10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",
 10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,Hypogeic,"{""Carbon"": 16, ""Indices"": [{""Index"": 7, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,(10Z)-heptadec-10-enoic,"{""Carbon"": 17, ""Indices"": [{""Index"": 10, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",16.4
+10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.164
 10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,cis-Vaccenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,Paullinic,"{""Carbon"": 20, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,Nervonic,"{""Carbon"": 24, ""Indices"": [{""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",3.1
+10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",0.031
 10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,γ-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,4,2007-07-07,LRA + MA,Elaeis,Elaeis guineensis,Palm kernel,Total,Stearidonic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",

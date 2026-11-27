@@ -1,23 +1,23 @@
 ﻿DOI,Index,Date,Group,Genus,Species,Name,Lipid,Label,FattyAcid,Value
-10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,Caprylic,"{""Carbon"": 8, ""Indices"": []}",5.5
-10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,Capric,"{""Carbon"": 10, ""Indices"": []}",6.1
-10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,Lauric,"{""Carbon"": 12, ""Indices"": []}",34.1
-10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,Myristic,"{""Carbon"": 14, ""Indices"": []}",19.2
-10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",10.6
-10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,Stearic,"{""Carbon"": 18, ""Indices"": []}",4.3
+10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,Caprylic,"{""Carbon"": 8, ""Indices"": []}",0.055
+10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,Capric,"{""Carbon"": 10, ""Indices"": []}",0.061
+10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,Lauric,"{""Carbon"": 12, ""Indices"": []}",0.341
+10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,Myristic,"{""Carbon"": 14, ""Indices"": []}",0.192
+10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.106
+10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,Stearic,"{""Carbon"": 18, ""Indices"": []}",0.043
 10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,Arachidic,"{""Carbon"": 20, ""Indices"": []}",
 10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,Behenic,"{""Carbon"": 22, ""Indices"": []}",
 10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",
 10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,Hypogeic,"{""Carbon"": 16, ""Indices"": [{""Index"": 7, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,(10Z)-heptadec-10-enoic,"{""Carbon"": 17, ""Indices"": [{""Index"": 10, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",17.1
+10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.171
 10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,cis-Vaccenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,Paullinic,"{""Carbon"": 20, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,Nervonic,"{""Carbon"": 24, ""Indices"": [{""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",3.1
+10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",0.031
 10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,γ-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,9,2007-07-07,LRA + MA,Orbignya,Orbignya oleifera,Babassu,Total,Stearidonic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",

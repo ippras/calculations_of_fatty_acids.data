@@ -3,22 +3,22 @@
 10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,Capric,"{""Carbon"": 10, ""Indices"": []}",
 10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,Lauric,"{""Carbon"": 12, ""Indices"": []}",
 10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,Myristic,"{""Carbon"": 14, ""Indices"": []}",0.0
-10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",4.9
-10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,Stearic,"{""Carbon"": 18, ""Indices"": []}",2.7
-10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,Arachidic,"{""Carbon"": 20, ""Indices"": []}",0.1
-10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,Behenic,"{""Carbon"": 22, ""Indices"": []}",0.1
+10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.049
+10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,Stearic,"{""Carbon"": 18, ""Indices"": []}",0.027
+10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,Arachidic,"{""Carbon"": 20, ""Indices"": []}",0.001
+10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,Behenic,"{""Carbon"": 22, ""Indices"": []}",0.001
 10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",0.0
-10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.2
+10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.002
 10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,Hypogeic,"{""Carbon"": 16, ""Indices"": [{""Index"": 7, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,(10Z)-heptadec-10-enoic,"{""Carbon"": 17, ""Indices"": [{""Index"": 10, ""Triple"": false, ""Parity"": false}]}",0.1
-10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",82.7
+10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,(10Z)-heptadec-10-enoic,"{""Carbon"": 17, ""Indices"": [{""Index"": 10, ""Triple"": false, ""Parity"": false}]}",0.001
+10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.827
 10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,cis-Vaccenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",0.2
+10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",0.002
 10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,Paullinic,"{""Carbon"": 20, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",0.0
 10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,Nervonic,"{""Carbon"": 24, ""Indices"": [{""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.0
-10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",8.9
-10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.1
+10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",0.089
+10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.001
 10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,γ-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,Stearidonic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,16,2007-07-07,MUFA,Corylus,Corylus avellana,Hazelnut,Total,Dihomolinoleic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}, {""Index"": 14, ""Triple"": false, ""Parity"": false}]}",

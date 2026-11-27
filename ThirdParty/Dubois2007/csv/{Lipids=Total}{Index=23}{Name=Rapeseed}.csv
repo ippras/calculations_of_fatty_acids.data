@@ -2,26 +2,26 @@
 10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Caprylic,"{""Carbon"": 8, ""Indices"": []}",
 10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Capric,"{""Carbon"": 10, ""Indices"": []}",
 10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Lauric,"{""Carbon"": 12, ""Indices"": []}",
-10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Myristic,"{""Carbon"": 14, ""Indices"": []}",0.1
-10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",5.1
-10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Stearic,"{""Carbon"": 18, ""Indices"": []}",1.7
-10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Arachidic,"{""Carbon"": 20, ""Indices"": []}",0.6
-10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Behenic,"{""Carbon"": 22, ""Indices"": []}",0.3
-10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",0.2
-10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.2
+10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Myristic,"{""Carbon"": 14, ""Indices"": []}",0.001
+10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.051
+10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Stearic,"{""Carbon"": 18, ""Indices"": []}",0.017
+10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Arachidic,"{""Carbon"": 20, ""Indices"": []}",0.006
+10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Behenic,"{""Carbon"": 22, ""Indices"": []}",0.003
+10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",0.002
+10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.002
 10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Hypogeic,"{""Carbon"": 16, ""Indices"": [{""Index"": 7, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,(10Z)-heptadec-10-enoic,"{""Carbon"": 17, ""Indices"": [{""Index"": 10, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",60.1
+10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.601
 10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,cis-Vaccenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",1.4
+10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",0.014
 10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Paullinic,"{""Carbon"": 20, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",0.4
-10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Nervonic,"{""Carbon"": 24, ""Indices"": [{""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.3
-10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",21.5
-10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",9.9
+10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",0.004
+10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Nervonic,"{""Carbon"": 24, ""Indices"": [{""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.003
+10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",0.215
+10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.099
 10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,γ-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Stearidonic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Dihomolinoleic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}, {""Index"": 14, ""Triple"": false, ""Parity"": false}]}",0.1
+10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Dihomolinoleic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}, {""Index"": 14, ""Triple"": false, ""Parity"": false}]}",0.001
 10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Dihomo-γ-linolenic,"{""Carbon"": 20, ""Indices"": [{""Index"": 8, ""Triple"": false, ""Parity"": false}, {""Index"": 11, ""Triple"": false, ""Parity"": false}, {""Index"": 14, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Arachidonic,"{""Carbon"": 20, ""Indices"": [{""Index"": 5, ""Triple"": false, ""Parity"": false}, {""Index"": 8, ""Triple"": false, ""Parity"": false}, {""Index"": 11, ""Triple"": false, ""Parity"": false}, {""Index"": 14, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,23,2007-07-07,MUFA,Brassica,Brassica napus,Rapeseed,Total,Eicosapentaenoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 5, ""Triple"": false, ""Parity"": false}, {""Index"": 8, ""Triple"": false, ""Parity"": false}, {""Index"": 11, ""Triple"": false, ""Parity"": false}, {""Index"": 14, ""Triple"": false, ""Parity"": false}, {""Index"": 17, ""Triple"": false, ""Parity"": false}]}",

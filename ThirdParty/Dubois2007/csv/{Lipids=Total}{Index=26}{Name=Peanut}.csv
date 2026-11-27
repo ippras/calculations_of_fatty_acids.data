@@ -2,23 +2,23 @@
 10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Caprylic,"{""Carbon"": 8, ""Indices"": []}",
 10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Capric,"{""Carbon"": 10, ""Indices"": []}",
 10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Lauric,"{""Carbon"": 12, ""Indices"": []}",
-10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Myristic,"{""Carbon"": 14, ""Indices"": []}",0.1
-10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",10.4
-10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Stearic,"{""Carbon"": 18, ""Indices"": []}",3.0
-10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Arachidic,"{""Carbon"": 20, ""Indices"": []}",1.2
-10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Behenic,"{""Carbon"": 22, ""Indices"": []}",2.3
-10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",1.4
-10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.2
+10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Myristic,"{""Carbon"": 14, ""Indices"": []}",0.001
+10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.104
+10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Stearic,"{""Carbon"": 18, ""Indices"": []}",0.03
+10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Arachidic,"{""Carbon"": 20, ""Indices"": []}",0.012
+10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Behenic,"{""Carbon"": 22, ""Indices"": []}",0.023
+10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",0.014
+10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.002
 10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Hypogeic,"{""Carbon"": 16, ""Indices"": [{""Index"": 7, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,(10Z)-heptadec-10-enoic,"{""Carbon"": 17, ""Indices"": [{""Index"": 10, ""Triple"": false, ""Parity"": false}]}",0.1
-10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",47.9
+10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,(10Z)-heptadec-10-enoic,"{""Carbon"": 17, ""Indices"": [{""Index"": 10, ""Triple"": false, ""Parity"": false}]}",0.001
+10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.479
 10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,cis-Vaccenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",1.3
+10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",0.013
 10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Paullinic,"{""Carbon"": 20, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",0.1
+10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",0.001
 10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Nervonic,"{""Carbon"": 24, ""Indices"": [{""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",30.3
-10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.4
+10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",0.303
+10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.004
 10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,γ-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Stearidonic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,26,2007-07-07,MUFA + SFA + LA,Arachis,Arachis hypogea,Peanut,Total,Dihomolinoleic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}, {""Index"": 14, ""Triple"": false, ""Parity"": false}]}",

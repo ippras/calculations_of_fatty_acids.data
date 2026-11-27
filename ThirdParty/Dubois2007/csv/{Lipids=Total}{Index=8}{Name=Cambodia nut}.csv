@@ -1,23 +1,23 @@
 ﻿DOI,Index,Date,Group,Genus,Species,Name,Lipid,Label,FattyAcid,Value
 10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,Caprylic,"{""Carbon"": 8, ""Indices"": []}",
-10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,Capric,"{""Carbon"": 10, ""Indices"": []}",2.7
-10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,Lauric,"{""Carbon"": 12, ""Indices"": []}",42.5
-10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,Myristic,"{""Carbon"": 14, ""Indices"": []}",42.1
-10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",7.3
-10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,Stearic,"{""Carbon"": 18, ""Indices"": []}",1.6
+10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,Capric,"{""Carbon"": 10, ""Indices"": []}",0.027
+10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,Lauric,"{""Carbon"": 12, ""Indices"": []}",0.425
+10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,Myristic,"{""Carbon"": 14, ""Indices"": []}",0.421
+10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.073
+10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,Stearic,"{""Carbon"": 18, ""Indices"": []}",0.016
 10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,Arachidic,"{""Carbon"": 20, ""Indices"": []}",
 10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,Behenic,"{""Carbon"": 22, ""Indices"": []}",
 10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",
 10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,Hypogeic,"{""Carbon"": 16, ""Indices"": [{""Index"": 7, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,(10Z)-heptadec-10-enoic,"{""Carbon"": 17, ""Indices"": [{""Index"": 10, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",2.3
+10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.023
 10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,cis-Vaccenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,Paullinic,"{""Carbon"": 20, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,Nervonic,"{""Carbon"": 24, ""Indices"": [{""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",1.5
+10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",0.015
 10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,γ-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,8,2007-07-07,LRA + MA,Irvingia,Irvingia malayana,Cambodia nut,Total,Stearidonic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",

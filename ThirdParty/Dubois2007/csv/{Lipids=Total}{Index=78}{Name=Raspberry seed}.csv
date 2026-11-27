@@ -3,22 +3,22 @@
 10.1002/ejlt.200700040,78,2007-07-07,ALA + LA,Rubus,Rubus idaeus,Raspberry seed,Total,Capric,"{""Carbon"": 10, ""Indices"": []}",
 10.1002/ejlt.200700040,78,2007-07-07,ALA + LA,Rubus,Rubus idaeus,Raspberry seed,Total,Lauric,"{""Carbon"": 12, ""Indices"": []}",
 10.1002/ejlt.200700040,78,2007-07-07,ALA + LA,Rubus,Rubus idaeus,Raspberry seed,Total,Myristic,"{""Carbon"": 14, ""Indices"": []}",
-10.1002/ejlt.200700040,78,2007-07-07,ALA + LA,Rubus,Rubus idaeus,Raspberry seed,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",2.7
-10.1002/ejlt.200700040,78,2007-07-07,ALA + LA,Rubus,Rubus idaeus,Raspberry seed,Total,Stearic,"{""Carbon"": 18, ""Indices"": []}",1.0
+10.1002/ejlt.200700040,78,2007-07-07,ALA + LA,Rubus,Rubus idaeus,Raspberry seed,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.027
+10.1002/ejlt.200700040,78,2007-07-07,ALA + LA,Rubus,Rubus idaeus,Raspberry seed,Total,Stearic,"{""Carbon"": 18, ""Indices"": []}",0.01
 10.1002/ejlt.200700040,78,2007-07-07,ALA + LA,Rubus,Rubus idaeus,Raspberry seed,Total,Arachidic,"{""Carbon"": 20, ""Indices"": []}",
 10.1002/ejlt.200700040,78,2007-07-07,ALA + LA,Rubus,Rubus idaeus,Raspberry seed,Total,Behenic,"{""Carbon"": 22, ""Indices"": []}",
 10.1002/ejlt.200700040,78,2007-07-07,ALA + LA,Rubus,Rubus idaeus,Raspberry seed,Total,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",
 10.1002/ejlt.200700040,78,2007-07-07,ALA + LA,Rubus,Rubus idaeus,Raspberry seed,Total,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,78,2007-07-07,ALA + LA,Rubus,Rubus idaeus,Raspberry seed,Total,Hypogeic,"{""Carbon"": 16, ""Indices"": [{""Index"": 7, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,78,2007-07-07,ALA + LA,Rubus,Rubus idaeus,Raspberry seed,Total,(10Z)-heptadec-10-enoic,"{""Carbon"": 17, ""Indices"": [{""Index"": 10, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,78,2007-07-07,ALA + LA,Rubus,Rubus idaeus,Raspberry seed,Total,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",12.0
+10.1002/ejlt.200700040,78,2007-07-07,ALA + LA,Rubus,Rubus idaeus,Raspberry seed,Total,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.12
 10.1002/ejlt.200700040,78,2007-07-07,ALA + LA,Rubus,Rubus idaeus,Raspberry seed,Total,cis-Vaccenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,78,2007-07-07,ALA + LA,Rubus,Rubus idaeus,Raspberry seed,Total,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,78,2007-07-07,ALA + LA,Rubus,Rubus idaeus,Raspberry seed,Total,Paullinic,"{""Carbon"": 20, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,78,2007-07-07,ALA + LA,Rubus,Rubus idaeus,Raspberry seed,Total,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,78,2007-07-07,ALA + LA,Rubus,Rubus idaeus,Raspberry seed,Total,Nervonic,"{""Carbon"": 24, ""Indices"": [{""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,78,2007-07-07,ALA + LA,Rubus,Rubus idaeus,Raspberry seed,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",54.5
-10.1002/ejlt.200700040,78,2007-07-07,ALA + LA,Rubus,Rubus idaeus,Raspberry seed,Total,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",29.1
+10.1002/ejlt.200700040,78,2007-07-07,ALA + LA,Rubus,Rubus idaeus,Raspberry seed,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",0.545
+10.1002/ejlt.200700040,78,2007-07-07,ALA + LA,Rubus,Rubus idaeus,Raspberry seed,Total,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.291
 10.1002/ejlt.200700040,78,2007-07-07,ALA + LA,Rubus,Rubus idaeus,Raspberry seed,Total,γ-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,78,2007-07-07,ALA + LA,Rubus,Rubus idaeus,Raspberry seed,Total,Stearidonic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,78,2007-07-07,ALA + LA,Rubus,Rubus idaeus,Raspberry seed,Total,Dihomolinoleic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}, {""Index"": 14, ""Triple"": false, ""Parity"": false}]}",

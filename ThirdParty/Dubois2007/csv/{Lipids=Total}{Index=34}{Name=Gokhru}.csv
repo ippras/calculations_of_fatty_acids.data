@@ -2,8 +2,8 @@
 10.1002/ejlt.200700040,34,2007-07-07,MUFA + SFA + LA,Tribulus,Tribulus terrestris,Gokhru,Total,Caprylic,"{""Carbon"": 8, ""Indices"": []}",
 10.1002/ejlt.200700040,34,2007-07-07,MUFA + SFA + LA,Tribulus,Tribulus terrestris,Gokhru,Total,Capric,"{""Carbon"": 10, ""Indices"": []}",
 10.1002/ejlt.200700040,34,2007-07-07,MUFA + SFA + LA,Tribulus,Tribulus terrestris,Gokhru,Total,Lauric,"{""Carbon"": 12, ""Indices"": []}",
-10.1002/ejlt.200700040,34,2007-07-07,MUFA + SFA + LA,Tribulus,Tribulus terrestris,Gokhru,Total,Myristic,"{""Carbon"": 14, ""Indices"": []}",23.5
-10.1002/ejlt.200700040,34,2007-07-07,MUFA + SFA + LA,Tribulus,Tribulus terrestris,Gokhru,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",12.9
+10.1002/ejlt.200700040,34,2007-07-07,MUFA + SFA + LA,Tribulus,Tribulus terrestris,Gokhru,Total,Myristic,"{""Carbon"": 14, ""Indices"": []}",0.235
+10.1002/ejlt.200700040,34,2007-07-07,MUFA + SFA + LA,Tribulus,Tribulus terrestris,Gokhru,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.129
 10.1002/ejlt.200700040,34,2007-07-07,MUFA + SFA + LA,Tribulus,Tribulus terrestris,Gokhru,Total,Stearic,"{""Carbon"": 18, ""Indices"": []}",
 10.1002/ejlt.200700040,34,2007-07-07,MUFA + SFA + LA,Tribulus,Tribulus terrestris,Gokhru,Total,Arachidic,"{""Carbon"": 20, ""Indices"": []}",
 10.1002/ejlt.200700040,34,2007-07-07,MUFA + SFA + LA,Tribulus,Tribulus terrestris,Gokhru,Total,Behenic,"{""Carbon"": 22, ""Indices"": []}",
@@ -11,13 +11,13 @@
 10.1002/ejlt.200700040,34,2007-07-07,MUFA + SFA + LA,Tribulus,Tribulus terrestris,Gokhru,Total,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,34,2007-07-07,MUFA + SFA + LA,Tribulus,Tribulus terrestris,Gokhru,Total,Hypogeic,"{""Carbon"": 16, ""Indices"": [{""Index"": 7, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,34,2007-07-07,MUFA + SFA + LA,Tribulus,Tribulus terrestris,Gokhru,Total,(10Z)-heptadec-10-enoic,"{""Carbon"": 17, ""Indices"": [{""Index"": 10, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,34,2007-07-07,MUFA + SFA + LA,Tribulus,Tribulus terrestris,Gokhru,Total,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",34.0
+10.1002/ejlt.200700040,34,2007-07-07,MUFA + SFA + LA,Tribulus,Tribulus terrestris,Gokhru,Total,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.34
 10.1002/ejlt.200700040,34,2007-07-07,MUFA + SFA + LA,Tribulus,Tribulus terrestris,Gokhru,Total,cis-Vaccenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,34,2007-07-07,MUFA + SFA + LA,Tribulus,Tribulus terrestris,Gokhru,Total,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,34,2007-07-07,MUFA + SFA + LA,Tribulus,Tribulus terrestris,Gokhru,Total,Paullinic,"{""Carbon"": 20, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,34,2007-07-07,MUFA + SFA + LA,Tribulus,Tribulus terrestris,Gokhru,Total,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,34,2007-07-07,MUFA + SFA + LA,Tribulus,Tribulus terrestris,Gokhru,Total,Nervonic,"{""Carbon"": 24, ""Indices"": [{""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,34,2007-07-07,MUFA + SFA + LA,Tribulus,Tribulus terrestris,Gokhru,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",20.8
+10.1002/ejlt.200700040,34,2007-07-07,MUFA + SFA + LA,Tribulus,Tribulus terrestris,Gokhru,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",0.208
 10.1002/ejlt.200700040,34,2007-07-07,MUFA + SFA + LA,Tribulus,Tribulus terrestris,Gokhru,Total,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,34,2007-07-07,MUFA + SFA + LA,Tribulus,Tribulus terrestris,Gokhru,Total,γ-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,34,2007-07-07,MUFA + SFA + LA,Tribulus,Tribulus terrestris,Gokhru,Total,Stearidonic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",

@@ -1,11 +1,11 @@
 ﻿DOI,Index,Date,Group,Genus,Species,Name,Lipid,Label,FattyAcid,Value
-10.1002/ejlt.200700040,7,2007-07-07,LRA + MA,Cuphea,Cuphea wrightii,Cuphea,Total,Caprylic,"{""Carbon"": 8, ""Indices"": []}",0.4
-10.1002/ejlt.200700040,7,2007-07-07,LRA + MA,Cuphea,Cuphea wrightii,Cuphea,Total,Capric,"{""Carbon"": 10, ""Indices"": []}",29.6
-10.1002/ejlt.200700040,7,2007-07-07,LRA + MA,Cuphea,Cuphea wrightii,Cuphea,Total,Lauric,"{""Carbon"": 12, ""Indices"": []}",57.2
-10.1002/ejlt.200700040,7,2007-07-07,LRA + MA,Cuphea,Cuphea wrightii,Cuphea,Total,Myristic,"{""Carbon"": 14, ""Indices"": []}",3.3
-10.1002/ejlt.200700040,7,2007-07-07,LRA + MA,Cuphea,Cuphea wrightii,Cuphea,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",1.7
-10.1002/ejlt.200700040,7,2007-07-07,LRA + MA,Cuphea,Cuphea wrightii,Cuphea,Total,Stearic,"{""Carbon"": 18, ""Indices"": []}",0.2
-10.1002/ejlt.200700040,7,2007-07-07,LRA + MA,Cuphea,Cuphea wrightii,Cuphea,Total,Arachidic,"{""Carbon"": 20, ""Indices"": []}",0.1
+10.1002/ejlt.200700040,7,2007-07-07,LRA + MA,Cuphea,Cuphea wrightii,Cuphea,Total,Caprylic,"{""Carbon"": 8, ""Indices"": []}",0.004
+10.1002/ejlt.200700040,7,2007-07-07,LRA + MA,Cuphea,Cuphea wrightii,Cuphea,Total,Capric,"{""Carbon"": 10, ""Indices"": []}",0.296
+10.1002/ejlt.200700040,7,2007-07-07,LRA + MA,Cuphea,Cuphea wrightii,Cuphea,Total,Lauric,"{""Carbon"": 12, ""Indices"": []}",0.572
+10.1002/ejlt.200700040,7,2007-07-07,LRA + MA,Cuphea,Cuphea wrightii,Cuphea,Total,Myristic,"{""Carbon"": 14, ""Indices"": []}",0.033
+10.1002/ejlt.200700040,7,2007-07-07,LRA + MA,Cuphea,Cuphea wrightii,Cuphea,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.017
+10.1002/ejlt.200700040,7,2007-07-07,LRA + MA,Cuphea,Cuphea wrightii,Cuphea,Total,Stearic,"{""Carbon"": 18, ""Indices"": []}",0.002
+10.1002/ejlt.200700040,7,2007-07-07,LRA + MA,Cuphea,Cuphea wrightii,Cuphea,Total,Arachidic,"{""Carbon"": 20, ""Indices"": []}",0.001
 10.1002/ejlt.200700040,7,2007-07-07,LRA + MA,Cuphea,Cuphea wrightii,Cuphea,Total,Behenic,"{""Carbon"": 22, ""Indices"": []}",
 10.1002/ejlt.200700040,7,2007-07-07,LRA + MA,Cuphea,Cuphea wrightii,Cuphea,Total,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",
 10.1002/ejlt.200700040,7,2007-07-07,LRA + MA,Cuphea,Cuphea wrightii,Cuphea,Total,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",
@@ -17,8 +17,8 @@
 10.1002/ejlt.200700040,7,2007-07-07,LRA + MA,Cuphea,Cuphea wrightii,Cuphea,Total,Paullinic,"{""Carbon"": 20, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,7,2007-07-07,LRA + MA,Cuphea,Cuphea wrightii,Cuphea,Total,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,7,2007-07-07,LRA + MA,Cuphea,Cuphea wrightii,Cuphea,Total,Nervonic,"{""Carbon"": 24, ""Indices"": [{""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,7,2007-07-07,LRA + MA,Cuphea,Cuphea wrightii,Cuphea,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",2.1
-10.1002/ejlt.200700040,7,2007-07-07,LRA + MA,Cuphea,Cuphea wrightii,Cuphea,Total,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",5.1
+10.1002/ejlt.200700040,7,2007-07-07,LRA + MA,Cuphea,Cuphea wrightii,Cuphea,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",0.021
+10.1002/ejlt.200700040,7,2007-07-07,LRA + MA,Cuphea,Cuphea wrightii,Cuphea,Total,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.051
 10.1002/ejlt.200700040,7,2007-07-07,LRA + MA,Cuphea,Cuphea wrightii,Cuphea,Total,γ-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,7,2007-07-07,LRA + MA,Cuphea,Cuphea wrightii,Cuphea,Total,Stearidonic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,7,2007-07-07,LRA + MA,Cuphea,Cuphea wrightii,Cuphea,Total,Dihomolinoleic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}, {""Index"": 14, ""Triple"": false, ""Parity"": false}]}",

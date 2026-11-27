@@ -3,21 +3,21 @@
 10.1002/ejlt.200700040,41,2007-07-07,LA,Capsicum,Capsicum annuum,Paprika seed,Total,Capric,"{""Carbon"": 10, ""Indices"": []}",
 10.1002/ejlt.200700040,41,2007-07-07,LA,Capsicum,Capsicum annuum,Paprika seed,Total,Lauric,"{""Carbon"": 12, ""Indices"": []}",
 10.1002/ejlt.200700040,41,2007-07-07,LA,Capsicum,Capsicum annuum,Paprika seed,Total,Myristic,"{""Carbon"": 14, ""Indices"": []}",
-10.1002/ejlt.200700040,41,2007-07-07,LA,Capsicum,Capsicum annuum,Paprika seed,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",13.8
-10.1002/ejlt.200700040,41,2007-07-07,LA,Capsicum,Capsicum annuum,Paprika seed,Total,Stearic,"{""Carbon"": 18, ""Indices"": []}",3.7
+10.1002/ejlt.200700040,41,2007-07-07,LA,Capsicum,Capsicum annuum,Paprika seed,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.138
+10.1002/ejlt.200700040,41,2007-07-07,LA,Capsicum,Capsicum annuum,Paprika seed,Total,Stearic,"{""Carbon"": 18, ""Indices"": []}",0.037
 10.1002/ejlt.200700040,41,2007-07-07,LA,Capsicum,Capsicum annuum,Paprika seed,Total,Arachidic,"{""Carbon"": 20, ""Indices"": []}",
 10.1002/ejlt.200700040,41,2007-07-07,LA,Capsicum,Capsicum annuum,Paprika seed,Total,Behenic,"{""Carbon"": 22, ""Indices"": []}",
 10.1002/ejlt.200700040,41,2007-07-07,LA,Capsicum,Capsicum annuum,Paprika seed,Total,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",
-10.1002/ejlt.200700040,41,2007-07-07,LA,Capsicum,Capsicum annuum,Paprika seed,Total,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.1
+10.1002/ejlt.200700040,41,2007-07-07,LA,Capsicum,Capsicum annuum,Paprika seed,Total,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.001
 10.1002/ejlt.200700040,41,2007-07-07,LA,Capsicum,Capsicum annuum,Paprika seed,Total,Hypogeic,"{""Carbon"": 16, ""Indices"": [{""Index"": 7, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,41,2007-07-07,LA,Capsicum,Capsicum annuum,Paprika seed,Total,(10Z)-heptadec-10-enoic,"{""Carbon"": 17, ""Indices"": [{""Index"": 10, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,41,2007-07-07,LA,Capsicum,Capsicum annuum,Paprika seed,Total,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",14.6
+10.1002/ejlt.200700040,41,2007-07-07,LA,Capsicum,Capsicum annuum,Paprika seed,Total,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.146
 10.1002/ejlt.200700040,41,2007-07-07,LA,Capsicum,Capsicum annuum,Paprika seed,Total,cis-Vaccenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,41,2007-07-07,LA,Capsicum,Capsicum annuum,Paprika seed,Total,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,41,2007-07-07,LA,Capsicum,Capsicum annuum,Paprika seed,Total,Paullinic,"{""Carbon"": 20, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,41,2007-07-07,LA,Capsicum,Capsicum annuum,Paprika seed,Total,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,41,2007-07-07,LA,Capsicum,Capsicum annuum,Paprika seed,Total,Nervonic,"{""Carbon"": 24, ""Indices"": [{""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,41,2007-07-07,LA,Capsicum,Capsicum annuum,Paprika seed,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",67.8
+10.1002/ejlt.200700040,41,2007-07-07,LA,Capsicum,Capsicum annuum,Paprika seed,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",0.678
 10.1002/ejlt.200700040,41,2007-07-07,LA,Capsicum,Capsicum annuum,Paprika seed,Total,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,41,2007-07-07,LA,Capsicum,Capsicum annuum,Paprika seed,Total,γ-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,41,2007-07-07,LA,Capsicum,Capsicum annuum,Paprika seed,Total,Stearidonic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",

@@ -1,24 +1,24 @@
 ﻿DOI,Index,Date,Group,Genus,Species,Name,Lipid,Label,FattyAcid,Value
 10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Caprylic,"{""Carbon"": 8, ""Indices"": []}",
 10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Capric,"{""Carbon"": 10, ""Indices"": []}",
-10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Lauric,"{""Carbon"": 12, ""Indices"": []}",0.5
-10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Myristic,"{""Carbon"": 14, ""Indices"": []}",0.5
-10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",20.1
-10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Stearic,"{""Carbon"": 18, ""Indices"": []}",3.2
-10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Arachidic,"{""Carbon"": 20, ""Indices"": []}",0.5
-10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Behenic,"{""Carbon"": 22, ""Indices"": []}",0.3
-10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",0.1
-10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",1.6
+10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Lauric,"{""Carbon"": 12, ""Indices"": []}",0.005
+10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Myristic,"{""Carbon"": 14, ""Indices"": []}",0.005
+10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.201
+10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Stearic,"{""Carbon"": 18, ""Indices"": []}",0.032
+10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Arachidic,"{""Carbon"": 20, ""Indices"": []}",0.005
+10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Behenic,"{""Carbon"": 22, ""Indices"": []}",0.003
+10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",0.001
+10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.016
 10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Hypogeic,"{""Carbon"": 16, ""Indices"": [{""Index"": 7, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,(10Z)-heptadec-10-enoic,"{""Carbon"": 17, ""Indices"": [{""Index"": 10, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",29.2
+10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.292
 10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,cis-Vaccenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",0.2
+10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",0.002
 10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Paullinic,"{""Carbon"": 20, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",0.7
+10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",0.007
 10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Nervonic,"{""Carbon"": 24, ""Indices"": [{""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",45.9
-10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.7
+10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",0.459
+10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.007
 10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,γ-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Stearidonic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,67,2007-07-07,LA + MUFA,Hibiscus,Hibiscus cannabinus,Kenaf,Total,Dihomolinoleic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}, {""Index"": 14, ""Triple"": false, ""Parity"": false}]}",

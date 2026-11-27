@@ -3,22 +3,22 @@
 10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,Capric,"{""Carbon"": 10, ""Indices"": []}",
 10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,Lauric,"{""Carbon"": 12, ""Indices"": []}",
 10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,Myristic,"{""Carbon"": 14, ""Indices"": []}",
-10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",12.3
-10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,Stearic,"{""Carbon"": 18, ""Indices"": []}",1.9
-10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,Arachidic,"{""Carbon"": 20, ""Indices"": []}",0.4
-10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,Behenic,"{""Carbon"": 22, ""Indices"": []}",0.1
-10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",0.1
-10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.1
+10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.123
+10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,Stearic,"{""Carbon"": 18, ""Indices"": []}",0.019
+10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,Arachidic,"{""Carbon"": 20, ""Indices"": []}",0.004
+10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,Behenic,"{""Carbon"": 22, ""Indices"": []}",0.001
+10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",0.001
+10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.001
 10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,Hypogeic,"{""Carbon"": 16, ""Indices"": [{""Index"": 7, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,(10Z)-heptadec-10-enoic,"{""Carbon"": 17, ""Indices"": [{""Index"": 10, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",27.7
+10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.277
 10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,cis-Vaccenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",0.3
+10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",0.003
 10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,Paullinic,"{""Carbon"": 20, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",0.0
 10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,Nervonic,"{""Carbon"": 24, ""Indices"": [{""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",56.1
-10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",1.0
+10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",0.561
+10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.01
 10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,γ-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,Stearidonic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,55,2007-07-07,LA + MUFA,Zea,Zea mays,Corn,Total,Dihomolinoleic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}, {""Index"": 14, ""Triple"": false, ""Parity"": false}]}",

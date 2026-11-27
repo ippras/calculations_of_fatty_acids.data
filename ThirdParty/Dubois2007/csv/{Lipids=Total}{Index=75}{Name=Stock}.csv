@@ -3,22 +3,22 @@
 10.1002/ejlt.200700040,75,2007-07-07,ALA + MUFA,Matthiola,Matthiola tricuspidata,Stock,Total,Capric,"{""Carbon"": 10, ""Indices"": []}",
 10.1002/ejlt.200700040,75,2007-07-07,ALA + MUFA,Matthiola,Matthiola tricuspidata,Stock,Total,Lauric,"{""Carbon"": 12, ""Indices"": []}",
 10.1002/ejlt.200700040,75,2007-07-07,ALA + MUFA,Matthiola,Matthiola tricuspidata,Stock,Total,Myristic,"{""Carbon"": 14, ""Indices"": []}",
-10.1002/ejlt.200700040,75,2007-07-07,ALA + MUFA,Matthiola,Matthiola tricuspidata,Stock,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",9.5
-10.1002/ejlt.200700040,75,2007-07-07,ALA + MUFA,Matthiola,Matthiola tricuspidata,Stock,Total,Stearic,"{""Carbon"": 18, ""Indices"": []}",6.0
+10.1002/ejlt.200700040,75,2007-07-07,ALA + MUFA,Matthiola,Matthiola tricuspidata,Stock,Total,Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.095
+10.1002/ejlt.200700040,75,2007-07-07,ALA + MUFA,Matthiola,Matthiola tricuspidata,Stock,Total,Stearic,"{""Carbon"": 18, ""Indices"": []}",0.06
 10.1002/ejlt.200700040,75,2007-07-07,ALA + MUFA,Matthiola,Matthiola tricuspidata,Stock,Total,Arachidic,"{""Carbon"": 20, ""Indices"": []}",
 10.1002/ejlt.200700040,75,2007-07-07,ALA + MUFA,Matthiola,Matthiola tricuspidata,Stock,Total,Behenic,"{""Carbon"": 22, ""Indices"": []}",
 10.1002/ejlt.200700040,75,2007-07-07,ALA + MUFA,Matthiola,Matthiola tricuspidata,Stock,Total,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",
 10.1002/ejlt.200700040,75,2007-07-07,ALA + MUFA,Matthiola,Matthiola tricuspidata,Stock,Total,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,75,2007-07-07,ALA + MUFA,Matthiola,Matthiola tricuspidata,Stock,Total,Hypogeic,"{""Carbon"": 16, ""Indices"": [{""Index"": 7, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,75,2007-07-07,ALA + MUFA,Matthiola,Matthiola tricuspidata,Stock,Total,(10Z)-heptadec-10-enoic,"{""Carbon"": 17, ""Indices"": [{""Index"": 10, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,75,2007-07-07,ALA + MUFA,Matthiola,Matthiola tricuspidata,Stock,Total,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",26.6
+10.1002/ejlt.200700040,75,2007-07-07,ALA + MUFA,Matthiola,Matthiola tricuspidata,Stock,Total,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.266
 10.1002/ejlt.200700040,75,2007-07-07,ALA + MUFA,Matthiola,Matthiola tricuspidata,Stock,Total,cis-Vaccenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,75,2007-07-07,ALA + MUFA,Matthiola,Matthiola tricuspidata,Stock,Total,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,75,2007-07-07,ALA + MUFA,Matthiola,Matthiola tricuspidata,Stock,Total,Paullinic,"{""Carbon"": 20, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,75,2007-07-07,ALA + MUFA,Matthiola,Matthiola tricuspidata,Stock,Total,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,75,2007-07-07,ALA + MUFA,Matthiola,Matthiola tricuspidata,Stock,Total,Nervonic,"{""Carbon"": 24, ""Indices"": [{""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
-10.1002/ejlt.200700040,75,2007-07-07,ALA + MUFA,Matthiola,Matthiola tricuspidata,Stock,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",12.4
-10.1002/ejlt.200700040,75,2007-07-07,ALA + MUFA,Matthiola,Matthiola tricuspidata,Stock,Total,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",43.9
+10.1002/ejlt.200700040,75,2007-07-07,ALA + MUFA,Matthiola,Matthiola tricuspidata,Stock,Total,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",0.124
+10.1002/ejlt.200700040,75,2007-07-07,ALA + MUFA,Matthiola,Matthiola tricuspidata,Stock,Total,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.439
 10.1002/ejlt.200700040,75,2007-07-07,ALA + MUFA,Matthiola,Matthiola tricuspidata,Stock,Total,γ-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,75,2007-07-07,ALA + MUFA,Matthiola,Matthiola tricuspidata,Stock,Total,Stearidonic,"{""Carbon"": 18, ""Indices"": [{""Index"": 6, ""Triple"": false, ""Parity"": false}, {""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",
 10.1002/ejlt.200700040,75,2007-07-07,ALA + MUFA,Matthiola,Matthiola tricuspidata,Stock,Total,Dihomolinoleic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}, {""Index"": 14, ""Triple"": false, ""Parity"": false}]}",
