@@ -6,5 +6,5 @@
     3. **Walnut**: _Juglans californica_
     4. **Hazelnut**: _Corylus avellana_
     5. **Olive**: _Olea europea_
-    6.  **Sunflower (RHA-274)**: _Helianthus annuus_
-    7.  **Sunflower (CAS-3)**: _Helianthus annuus_
+    6. **Sunflower (RHA-274)**: _Helianthus annuus_
+    7. **Sunflower (CAS-3)**: _Helianthus annuus_
