@@ -1,4 +1,4 @@
-# [Martinez-Force2004](https://doi.org/)
+# [Martinez-Force2004](https://doi.org/doi:10.1016/j.ab.2004.07.019)
 
 [github.com](https://github.com/kgv-third-party/Martinez-Force2004)
 
