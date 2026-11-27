@@ -1,9 +1,0 @@
-DOI,Date,Genus,Index,Lipid,Name,Species,StereospecificNumbers,Label,FattyAcid,Value
-10.1016/j.ab.2004.07.019,2004-05-20,Glycine,2,Triacylglycerol,Soybean,Glycine max,2,Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.012
-10.1016/j.ab.2004.07.019,2004-05-20,Glycine,2,Triacylglycerol,Soybean,Glycine max,2,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.008
-10.1016/j.ab.2004.07.019,2004-05-20,Glycine,2,Triacylglycerol,Soybean,Glycine max,2,Stearic,"{""Carbon"": 18, ""Indices"": []}",0.006
-10.1016/j.ab.2004.07.019,2004-05-20,Glycine,2,Triacylglycerol,Soybean,Glycine max,2,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.317
-10.1016/j.ab.2004.07.019,2004-05-20,Glycine,2,Triacylglycerol,Soybean,Glycine max,2,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",0.598
-10.1016/j.ab.2004.07.019,2004-05-20,Glycine,2,Triacylglycerol,Soybean,Glycine max,2,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.041
-10.1016/j.ab.2004.07.019,2004-05-20,Glycine,2,Triacylglycerol,Soybean,Glycine max,2,Arachidic,"{""Carbon"": 20, ""Indices"": []}",0.0
-10.1016/j.ab.2004.07.019,2004-05-20,Glycine,2,Triacylglycerol,Soybean,Glycine max,2,Behenic,"{""Carbon"": 22, ""Indices"": []}",0.0
