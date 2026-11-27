@@ -1,0 +1,9 @@
+DOI,Date,Genus,Index,Lipids,Name,Species,StereospecificNumbers,Label,FattyAcid,Area
+10.1016/j.ab.2004.07.019,2004-05-20,Olea,5,Neutral,Olive,Olea europea,2,Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.013
+10.1016/j.ab.2004.07.019,2004-05-20,Olea,5,Neutral,Olive,Olea europea,2,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.013
+10.1016/j.ab.2004.07.019,2004-05-20,Olea,5,Neutral,Olive,Olea europea,2,Stearic,"{""Carbon"": 18, ""Indices"": []}",0.007
+10.1016/j.ab.2004.07.019,2004-05-20,Olea,5,Neutral,Olive,Olea europea,2,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.756
+10.1016/j.ab.2004.07.019,2004-05-20,Olea,5,Neutral,Olive,Olea europea,2,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",0.18
+10.1016/j.ab.2004.07.019,2004-05-20,Olea,5,Neutral,Olive,Olea europea,2,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.01
+10.1016/j.ab.2004.07.019,2004-05-20,Olea,5,Neutral,Olive,Olea europea,2,Arachidic,"{""Carbon"": 20, ""Indices"": []}",0.0
+10.1016/j.ab.2004.07.019,2004-05-20,Olea,5,Neutral,Olive,Olea europea,2,Behenic,"{""Carbon"": 22, ""Indices"": []}",0.0
