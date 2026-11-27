@@ -1,32 +1,32 @@
 ﻿DOI,Index,Date,Genus,Species,Name,Lipid,StereospecificNumbers,Label,FattyAcid,Value
-10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,1,Palmitic,"{""Carbon"": 16, ""Indices"": []}",13.8
+10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,1,Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.138
 10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,1,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.0
-10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,1,Stearic,"{""Carbon"": 18, ""Indices"": []}",5.9
-10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,1,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",22.9
-10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,1,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",48.4
-10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,1,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",9.1
+10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,1,Stearic,"{""Carbon"": 18, ""Indices"": []}",0.059
+10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,1,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.229
+10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,1,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",0.484
+10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,1,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.091
 10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,1,Arachidic,"{""Carbon"": 20, ""Indices"": []}",0.0
 10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,1,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",0.0
 10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,1,Behenic,"{""Carbon"": 22, ""Indices"": []}",0.0
 10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,1,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",0.0
 10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,1,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",0.0
-10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,2,Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.9
+10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,2,Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.009
 10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,2,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.0
-10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,2,Stearic,"{""Carbon"": 18, ""Indices"": []}",0.3
-10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,2,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",21.5
-10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,2,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",69.7
-10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,2,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",7.1
+10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,2,Stearic,"{""Carbon"": 18, ""Indices"": []}",0.003
+10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,2,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.215
+10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,2,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",0.697
+10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,2,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.071
 10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,2,Arachidic,"{""Carbon"": 20, ""Indices"": []}",0.0
 10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,2,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",0.0
 10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,2,Behenic,"{""Carbon"": 22, ""Indices"": []}",0.0
 10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,2,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",0.0
 10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,2,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",0.0
-10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,3,Palmitic,"{""Carbon"": 16, ""Indices"": []}",13.1
+10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,3,Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.131
 10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,3,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.0
-10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,3,Stearic,"{""Carbon"": 18, ""Indices"": []}",5.6
-10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,3,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",28.0
-10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,3,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",45.2
-10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,3,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",8.4
+10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,3,Stearic,"{""Carbon"": 18, ""Indices"": []}",0.056
+10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,3,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.28
+10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,3,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",0.452
+10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,3,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.084
 10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,3,Arachidic,"{""Carbon"": 20, ""Indices"": []}",0.0
 10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,3,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",0.0
 10.1016/S0022-2275(20)39585-7,3,1966-01-01,Glycine,Glycine max,Soybean,Triacylglycerol,3,Behenic,"{""Carbon"": 22, ""Indices"": []}",0.0

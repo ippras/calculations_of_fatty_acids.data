@@ -1,34 +1,34 @@
 ﻿DOI,Index,Date,Genus,Species,Name,Lipid,StereospecificNumbers,Label,FattyAcid,Value
-10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,1,Palmitic,"{""Carbon"": 16, ""Indices"": []}",4.1
-10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,1,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.3
-10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,1,Stearic,"{""Carbon"": 18, ""Indices"": []}",2.2
-10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,1,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",23.1
-10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,1,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",11.1
-10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,1,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",6.4
+10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,1,Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.041
+10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,1,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.003
+10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,1,Stearic,"{""Carbon"": 18, ""Indices"": []}",0.022
+10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,1,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.231
+10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,1,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",0.111
+10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,1,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.064
 10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,1,Arachidic,"{""Carbon"": 20, ""Indices"": []}",0.0
-10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,1,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",16.4
-10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,1,Behenic,"{""Carbon"": 22, ""Indices"": []}",1.4
-10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,1,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",34.9
+10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,1,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",0.164
+10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,1,Behenic,"{""Carbon"": 22, ""Indices"": []}",0.014
+10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,1,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",0.349
 10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,1,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",0.0
-10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,2,Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.6
-10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,2,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.2
+10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,2,Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.006
+10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,2,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.002
 10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,2,Stearic,"{""Carbon"": 18, ""Indices"": []}",0.0
-10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,2,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",37.3
-10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,2,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",36.1
-10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,2,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",20.3
+10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,2,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.373
+10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,2,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",0.361
+10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,2,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.203
 10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,2,Arachidic,"{""Carbon"": 20, ""Indices"": []}",0.0
-10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,2,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",2.0
+10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,2,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",0.02
 10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,2,Behenic,"{""Carbon"": 22, ""Indices"": []}",0.0
-10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,2,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",3.6
+10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,2,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",0.036
 10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,2,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",0.0
-10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,3,Palmitic,"{""Carbon"": 16, ""Indices"": []}",4.3
-10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,3,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.3
-10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,3,Stearic,"{""Carbon"": 18, ""Indices"": []}",3.0
-10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,3,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",16.6
-10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,3,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",4.0
-10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,3,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",2.6
+10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,3,Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.043
+10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,3,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.003
+10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,3,Stearic,"{""Carbon"": 18, ""Indices"": []}",0.03
+10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,3,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.166
+10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,3,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",0.04
+10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,3,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.026
 10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,3,Arachidic,"{""Carbon"": 20, ""Indices"": []}",0.0
-10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,3,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",17.3
-10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,3,Behenic,"{""Carbon"": 22, ""Indices"": []}",1.2
-10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,3,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",51.0
+10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,3,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",0.173
+10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,3,Behenic,"{""Carbon"": 22, ""Indices"": []}",0.012
+10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,3,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",0.51
 10.1016/S0022-2275(20)39585-7,1,1966-01-01,Brassica,Brassica napus,Rapeseed,Triacylglycerol,3,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",0.0
