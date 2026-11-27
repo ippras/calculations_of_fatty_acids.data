@@ -1,0 +1,25 @@
+DOI,StereospecificNumbers,Date,Genus,Index,Lipids,Name,Species,Label,FattyAcid,Value
+10.1007/s11746-997-0016-1,"1,2,3",1997-08-01,Helianthus,1,Neutral,Commodity,Helianthus annuus,Myristic,"{""Carbon"": 14, ""Indices"": []}",0.001
+10.1007/s11746-997-0016-1,"1,2,3",1997-08-01,Helianthus,1,Neutral,Commodity,Helianthus annuus,Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.07
+10.1007/s11746-997-0016-1,"1,2,3",1997-08-01,Helianthus,1,Neutral,Commodity,Helianthus annuus,Hypogeic,"{""Carbon"": 16, ""Indices"": [{""Index"": 7, ""Triple"": false, ""Parity"": false}]}",0.002
+10.1007/s11746-997-0016-1,"1,2,3",1997-08-01,Helianthus,1,Neutral,Commodity,Helianthus annuus,Stearic,"{""Carbon"": 18, ""Indices"": []}",0.048
+10.1007/s11746-997-0016-1,"1,2,3",1997-08-01,Helianthus,1,Neutral,Commodity,Helianthus annuus,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.278
+10.1007/s11746-997-0016-1,"1,2,3",1997-08-01,Helianthus,1,Neutral,Commodity,Helianthus annuus,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",0.587
+10.1007/s11746-997-0016-1,"1,2,3",1997-08-01,Helianthus,1,Neutral,Commodity,Helianthus annuus,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.001
+10.1007/s11746-997-0016-1,"1,2,3",1997-08-01,Helianthus,1,Neutral,Commodity,Helianthus annuus,Arachidic,"{""Carbon"": 20, ""Indices"": []}",0.003
+10.1007/s11746-997-0016-1,"1,2,3",1997-08-01,Helianthus,1,Neutral,Commodity,Helianthus annuus,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",0.001
+10.1007/s11746-997-0016-1,"1,2,3",1997-08-01,Helianthus,1,Neutral,Commodity,Helianthus annuus,Behenic,"{""Carbon"": 22, ""Indices"": []}",0.007
+10.1007/s11746-997-0016-1,"1,2,3",1997-08-01,Helianthus,1,Neutral,Commodity,Helianthus annuus,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",0.001
+10.1007/s11746-997-0016-1,"1,2,3",1997-08-01,Helianthus,1,Neutral,Commodity,Helianthus annuus,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",0.003
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,1,Neutral,Commodity,Helianthus annuus,Myristic,"{""Carbon"": 14, ""Indices"": []}",0.0
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,1,Neutral,Commodity,Helianthus annuus,Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.014
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,1,Neutral,Commodity,Helianthus annuus,Hypogeic,"{""Carbon"": 16, ""Indices"": [{""Index"": 7, ""Triple"": false, ""Parity"": false}]}",0.004
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,1,Neutral,Commodity,Helianthus annuus,Stearic,"{""Carbon"": 18, ""Indices"": []}",0.012
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,1,Neutral,Commodity,Helianthus annuus,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.315
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,1,Neutral,Commodity,Helianthus annuus,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",0.657
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,1,Neutral,Commodity,Helianthus annuus,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.0
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,1,Neutral,Commodity,Helianthus annuus,Arachidic,"{""Carbon"": 20, ""Indices"": []}",0.0
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,1,Neutral,Commodity,Helianthus annuus,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",0.0
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,1,Neutral,Commodity,Helianthus annuus,Behenic,"{""Carbon"": 22, ""Indices"": []}",0.0
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,1,Neutral,Commodity,Helianthus annuus,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",0.0
+10.1007/s11746-997-0016-1,2,1997-08-01,Helianthus,1,Neutral,Commodity,Helianthus annuus,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",0.0
