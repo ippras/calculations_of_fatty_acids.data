@@ -63,7 +63,7 @@ COLUMN_ORDER = [
     "DOI",
     "Index",
     "Date",
-    # "Group",
+    "Group",
     "Genus",
     "Species",
     "Name",
