@@ -1,9 +1,9 @@
-DOI,Date,Genus,Index,Lipids,Name,Species,StereospecificNumbers,Label,FattyAcid,Area
-10.1016/j.ab.2004.07.019,2004-05-20,Helianthus,7,Neutral,Sunflower (CAS-3),Helianthus annuus,"1,2,3",Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.073
-10.1016/j.ab.2004.07.019,2004-05-20,Helianthus,7,Neutral,Sunflower (CAS-3),Helianthus annuus,"1,2,3",Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.0
-10.1016/j.ab.2004.07.019,2004-05-20,Helianthus,7,Neutral,Sunflower (CAS-3),Helianthus annuus,"1,2,3",Stearic,"{""Carbon"": 18, ""Indices"": []}",0.278
-10.1016/j.ab.2004.07.019,2004-05-20,Helianthus,7,Neutral,Sunflower (CAS-3),Helianthus annuus,"1,2,3",Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.165
-10.1016/j.ab.2004.07.019,2004-05-20,Helianthus,7,Neutral,Sunflower (CAS-3),Helianthus annuus,"1,2,3",Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",0.45
-10.1016/j.ab.2004.07.019,2004-05-20,Helianthus,7,Neutral,Sunflower (CAS-3),Helianthus annuus,"1,2,3",α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.0
-10.1016/j.ab.2004.07.019,2004-05-20,Helianthus,7,Neutral,Sunflower (CAS-3),Helianthus annuus,"1,2,3",Arachidic,"{""Carbon"": 20, ""Indices"": []}",0.016
-10.1016/j.ab.2004.07.019,2004-05-20,Helianthus,7,Neutral,Sunflower (CAS-3),Helianthus annuus,"1,2,3",Behenic,"{""Carbon"": 22, ""Indices"": []}",0.015
+DOI,Date,Genus,Index,Lipid,Name,Species,StereospecificNumbers,Label,FattyAcid,Value
+10.1016/j.ab.2004.07.019,2004-05-20,Helianthus,7,Triacylglycerol,Sunflower (CAS-3),Helianthus annuus,"1,2,3",Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.073
+10.1016/j.ab.2004.07.019,2004-05-20,Helianthus,7,Triacylglycerol,Sunflower (CAS-3),Helianthus annuus,"1,2,3",Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.0
+10.1016/j.ab.2004.07.019,2004-05-20,Helianthus,7,Triacylglycerol,Sunflower (CAS-3),Helianthus annuus,"1,2,3",Stearic,"{""Carbon"": 18, ""Indices"": []}",0.278
+10.1016/j.ab.2004.07.019,2004-05-20,Helianthus,7,Triacylglycerol,Sunflower (CAS-3),Helianthus annuus,"1,2,3",Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.165
+10.1016/j.ab.2004.07.019,2004-05-20,Helianthus,7,Triacylglycerol,Sunflower (CAS-3),Helianthus annuus,"1,2,3",Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",0.45
+10.1016/j.ab.2004.07.019,2004-05-20,Helianthus,7,Triacylglycerol,Sunflower (CAS-3),Helianthus annuus,"1,2,3",α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.0
+10.1016/j.ab.2004.07.019,2004-05-20,Helianthus,7,Triacylglycerol,Sunflower (CAS-3),Helianthus annuus,"1,2,3",Arachidic,"{""Carbon"": 20, ""Indices"": []}",0.016
+10.1016/j.ab.2004.07.019,2004-05-20,Helianthus,7,Triacylglycerol,Sunflower (CAS-3),Helianthus annuus,"1,2,3",Behenic,"{""Carbon"": 22, ""Indices"": []}",0.015
