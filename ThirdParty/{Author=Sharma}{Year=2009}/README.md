@@ -1,10 +1,5 @@
-# [Brockerhoff1966](https://doi.org/10.1016/S0022-2275(20)39585-7)
+# [Sharma2009](https://doi.org/10.1016/j.indcrop.2009.04.004)
 
 - Triacylglycerol:
-    1. **Peanut**: _Arachis hypogaea_,
-    2. **Rapeseed**: _Brassica napus_,
-    3. **Soybean**: _Glycine max_,
-    4. **Linseed**: _Linum usitatissimum_,
-    5. **Corn**: _Zea mays_,
-    6. **Olive**: _Olea europaea_,
-    7. **Cacao butter**: _Theobroma cacao_,
+    1. **M. elengi**: _Mimusops elengi_
+    2. **P. aculeata**: _Parkinsonia aculeata_
