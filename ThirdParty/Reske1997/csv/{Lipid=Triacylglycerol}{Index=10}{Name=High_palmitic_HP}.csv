@@ -1,0 +1,31 @@
+﻿DOI,Index,Date,Genus,Species,Name,Lipid,StereospecificNumbers,Method,Label,FattyAcid,Value
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,"1,2,3",Experimental,Myristic,"{""Carbon"":14,""Indices"":[]}",0.1
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,"1,2,3",Experimental,Palmitic,"{""Carbon"":16,""Indices"":[]}",23.8
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,"1,2,3",Experimental,Palmitoleic,"{""Carbon"":16,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.7
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,"1,2,3",Experimental,Stearic,"{""Carbon"":18,""Indices"":[]}",3.8
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,"1,2,3",Experimental,Oleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",15.4
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,"1,2,3",Experimental,Linoleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",44.1
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,"1,2,3",Experimental,Linolenic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false},{""Index"":15,""Triple"":false,""Parity"":false}]}",11.0
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,"1,2,3",Experimental,Arachidic,"{""Carbon"":20,""Indices"":[]}",0.4
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,"1,2,3",Experimental,Eicosenoic (cis-11),"{""Carbon"":20,""Indices"":[{""Index"":11,""Triple"":false,""Parity"":false}]}",0.1
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,"1,2,3",Experimental,Behenic,"{""Carbon"":22,""Indices"":[]}",0.6
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,"1,2,3",Experimental,Erucic (cis-13),"{""Carbon"":22,""Indices"":[{""Index"":13,""Triple"":false,""Parity"":false}]}",0.0
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,"1,2,3",Experimental,Lignoceric,"{""Carbon"":24,""Indices"":[]}",0.1
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,1,Experimental,Palmitic,"{""Carbon"":16,""Indices"":[]}",32.1
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,1,Experimental,Palmitoleic,"{""Carbon"":16,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",1.0
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,1,Experimental,Stearic,"{""Carbon"":18,""Indices"":[]}",4.4
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,1,Experimental,Oleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",11.9
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,1,Experimental,Linoleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",35.4
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,1,Experimental,Linolenic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false},{""Index"":15,""Triple"":false,""Parity"":false}]}",15.2
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,2,Experimental,Palmitic,"{""Carbon"":16,""Indices"":[]}",3.9
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,2,Experimental,Palmitoleic,"{""Carbon"":16,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",1.1
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,2,Experimental,Stearic,"{""Carbon"":18,""Indices"":[]}",1.8
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,2,Experimental,Oleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",15.9
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,2,Experimental,Linoleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",66.4
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,2,Experimental,Linolenic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false},{""Index"":15,""Triple"":false,""Parity"":false}]}",11.1
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,3,Experimental,Palmitic,"{""Carbon"":16,""Indices"":[]}",38.6
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,3,Experimental,Palmitoleic,"{""Carbon"":16,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",1.0
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,3,Experimental,Stearic,"{""Carbon"":18,""Indices"":[]}",5.0
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,3,Experimental,Oleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",15.8
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,3,Experimental,Linoleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",26.7
+10.1007/s11746-997-0016-1,10,1997-08-01,Glycine,Glycine max,High palmitic (HP),Triacylglycerol,3,Experimental,Linolenic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false},{""Index"":15,""Triple"":false,""Parity"":false}]}",12.9

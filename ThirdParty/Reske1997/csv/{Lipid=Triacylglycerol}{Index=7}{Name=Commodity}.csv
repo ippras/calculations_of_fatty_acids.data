@@ -1,0 +1,31 @@
+﻿DOI,Index,Date,Genus,Species,Name,Lipid,StereospecificNumbers,Method,Label,FattyAcid,Value
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,"1,2,3",Experimental,Myristic,"{""Carbon"":14,""Indices"":[]}",0.1
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,"1,2,3",Experimental,Palmitic,"{""Carbon"":16,""Indices"":[]}",10.2
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,"1,2,3",Experimental,Palmitoleic,"{""Carbon"":16,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.1
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,"1,2,3",Experimental,Stearic,"{""Carbon"":18,""Indices"":[]}",4.1
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,"1,2,3",Experimental,Oleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",23.4
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,"1,2,3",Experimental,Linoleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",52.8
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,"1,2,3",Experimental,Linolenic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false},{""Index"":15,""Triple"":false,""Parity"":false}]}",8.3
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,"1,2,3",Experimental,Arachidic,"{""Carbon"":20,""Indices"":[]}",0.3
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,"1,2,3",Experimental,Eicosenoic (cis-11),"{""Carbon"":20,""Indices"":[{""Index"":11,""Triple"":false,""Parity"":false}]}",0.2
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,"1,2,3",Experimental,Behenic,"{""Carbon"":22,""Indices"":[]}",0.3
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,"1,2,3",Experimental,Erucic (cis-13),"{""Carbon"":22,""Indices"":[{""Index"":13,""Triple"":false,""Parity"":false}]}",0.0
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,"1,2,3",Experimental,Lignoceric,"{""Carbon"":24,""Indices"":[]}",0.1
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,1,Experimental,Palmitic,"{""Carbon"":16,""Indices"":[]}",18.2
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,1,Experimental,Palmitoleic,"{""Carbon"":16,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.1
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,1,Experimental,Stearic,"{""Carbon"":18,""Indices"":[]}",5.4
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,1,Experimental,Oleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",15.9
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,1,Experimental,Linoleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",47.8
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,1,Experimental,Linolenic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false},{""Index"":15,""Triple"":false,""Parity"":false}]}",12.9
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,2,Experimental,Palmitic,"{""Carbon"":16,""Indices"":[]}",3.7
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,2,Experimental,Palmitoleic,"{""Carbon"":16,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.2
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,2,Experimental,Stearic,"{""Carbon"":18,""Indices"":[]}",3.4
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,2,Experimental,Oleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",21.4
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,2,Experimental,Linoleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",65.0
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,2,Experimental,Linolenic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false},{""Index"":15,""Triple"":false,""Parity"":false}]}",6.4
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,3,Experimental,Palmitic,"{""Carbon"":16,""Indices"":[]}",12.0
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,3,Experimental,Palmitoleic,"{""Carbon"":16,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",0.1
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,3,Experimental,Stearic,"{""Carbon"":18,""Indices"":[]}",4.5
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,3,Experimental,Oleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false}]}",25.0
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,3,Experimental,Linoleic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false}]}",48.3
+10.1007/s11746-997-0016-1,7,1997-08-01,Glycine,Glycine max,Commodity,Triacylglycerol,3,Experimental,Linolenic,"{""Carbon"":18,""Indices"":[{""Index"":9,""Triple"":false,""Parity"":false},{""Index"":12,""Triple"":false,""Parity"":false},{""Index"":15,""Triple"":false,""Parity"":false}]}",10.3
