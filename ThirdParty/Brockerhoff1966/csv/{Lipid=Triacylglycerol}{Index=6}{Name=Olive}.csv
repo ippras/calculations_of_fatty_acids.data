@@ -21,14 +21,14 @@
 10.1016/S0022-2275(20)39585-7,6,1966-01-01,Olea,Olea europaea,Olive,Triacylglycerol,2,Experimental,Behenic,"{""Carbon"": 22, ""Indices"": []}",0.0
 10.1016/S0022-2275(20)39585-7,6,1966-01-01,Olea,Olea europaea,Olive,Triacylglycerol,2,Experimental,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",0.0
 10.1016/S0022-2275(20)39585-7,6,1966-01-01,Olea,Olea europaea,Olive,Triacylglycerol,2,Experimental,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",0.0
-10.1016/S0022-2275(20)39585-7,6,1966-01-01,Olea,Olea europaea,Olive,Triacylglycerol,3,Experimental,Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.169
-10.1016/S0022-2275(20)39585-7,6,1966-01-01,Olea,Olea europaea,Olive,Triacylglycerol,3,Experimental,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.008
-10.1016/S0022-2275(20)39585-7,6,1966-01-01,Olea,Olea europaea,Olive,Triacylglycerol,3,Experimental,Stearic,"{""Carbon"": 18, ""Indices"": []}",0.042
-10.1016/S0022-2275(20)39585-7,6,1966-01-01,Olea,Olea europaea,Olive,Triacylglycerol,3,Experimental,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.739
-10.1016/S0022-2275(20)39585-7,6,1966-01-01,Olea,Olea europaea,Olive,Triacylglycerol,3,Experimental,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",0.051
-10.1016/S0022-2275(20)39585-7,6,1966-01-01,Olea,Olea europaea,Olive,Triacylglycerol,3,Experimental,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.013
-10.1016/S0022-2275(20)39585-7,6,1966-01-01,Olea,Olea europaea,Olive,Triacylglycerol,3,Experimental,Arachidic,"{""Carbon"": 20, ""Indices"": []}",0.0
-10.1016/S0022-2275(20)39585-7,6,1966-01-01,Olea,Olea europaea,Olive,Triacylglycerol,3,Experimental,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",0.0
-10.1016/S0022-2275(20)39585-7,6,1966-01-01,Olea,Olea europaea,Olive,Triacylglycerol,3,Experimental,Behenic,"{""Carbon"": 22, ""Indices"": []}",0.0
-10.1016/S0022-2275(20)39585-7,6,1966-01-01,Olea,Olea europaea,Olive,Triacylglycerol,3,Experimental,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",0.0
-10.1016/S0022-2275(20)39585-7,6,1966-01-01,Olea,Olea europaea,Olive,Triacylglycerol,3,Experimental,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",0.0
+10.1016/S0022-2275(20)39585-7,6,1966-01-01,Olea,Olea europaea,Olive,Triacylglycerol,3,Calculated,Palmitic,"{""Carbon"": 16, ""Indices"": []}",0.169
+10.1016/S0022-2275(20)39585-7,6,1966-01-01,Olea,Olea europaea,Olive,Triacylglycerol,3,Calculated,Palmitoleic,"{""Carbon"": 16, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.008
+10.1016/S0022-2275(20)39585-7,6,1966-01-01,Olea,Olea europaea,Olive,Triacylglycerol,3,Calculated,Stearic,"{""Carbon"": 18, ""Indices"": []}",0.042
+10.1016/S0022-2275(20)39585-7,6,1966-01-01,Olea,Olea europaea,Olive,Triacylglycerol,3,Calculated,Oleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}]}",0.739
+10.1016/S0022-2275(20)39585-7,6,1966-01-01,Olea,Olea europaea,Olive,Triacylglycerol,3,Calculated,Linoleic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}]}",0.051
+10.1016/S0022-2275(20)39585-7,6,1966-01-01,Olea,Olea europaea,Olive,Triacylglycerol,3,Calculated,α-Linolenic,"{""Carbon"": 18, ""Indices"": [{""Index"": 9, ""Triple"": false, ""Parity"": false}, {""Index"": 12, ""Triple"": false, ""Parity"": false}, {""Index"": 15, ""Triple"": false, ""Parity"": false}]}",0.013
+10.1016/S0022-2275(20)39585-7,6,1966-01-01,Olea,Olea europaea,Olive,Triacylglycerol,3,Calculated,Arachidic,"{""Carbon"": 20, ""Indices"": []}",0.0
+10.1016/S0022-2275(20)39585-7,6,1966-01-01,Olea,Olea europaea,Olive,Triacylglycerol,3,Calculated,Gondoic,"{""Carbon"": 20, ""Indices"": [{""Index"": 11, ""Triple"": false, ""Parity"": false}]}",0.0
+10.1016/S0022-2275(20)39585-7,6,1966-01-01,Olea,Olea europaea,Olive,Triacylglycerol,3,Calculated,Behenic,"{""Carbon"": 22, ""Indices"": []}",0.0
+10.1016/S0022-2275(20)39585-7,6,1966-01-01,Olea,Olea europaea,Olive,Triacylglycerol,3,Calculated,Erucic,"{""Carbon"": 22, ""Indices"": [{""Index"": 13, ""Triple"": false, ""Parity"": false}]}",0.0
+10.1016/S0022-2275(20)39585-7,6,1966-01-01,Olea,Olea europaea,Olive,Triacylglycerol,3,Calculated,Lignoceric,"{""Carbon"": 24, ""Indices"": []}",0.0
