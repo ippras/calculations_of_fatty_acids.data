@@ -39,5 +39,5 @@
 10.1007/s11746-997-0016-1,12,1997-08-01,Glycine,Glycine max,High saturate (Hsat),Triacylglycerol,"1,3",Calculated,Arachidic,"{""Carbon"":20,""Indices"":[]}",0.0195
 10.1007/s11746-997-0016-1,12,1997-08-01,Glycine,Glycine max,High saturate (Hsat),Triacylglycerol,"1,3",Calculated,Eicosenoic (cis-11),"{""Carbon"":20,""Indices"":[{""Index"":11,""Triple"":false,""Parity"":false}]}",0.0015
 10.1007/s11746-997-0016-1,12,1997-08-01,Glycine,Glycine max,High saturate (Hsat),Triacylglycerol,"1,3",Calculated,Behenic,"{""Carbon"":22,""Indices"":[]}",0.015
-10.1007/s11746-997-0016-1,12,1997-08-01,Glycine,Glycine max,High saturate (Hsat),Triacylglycerol,"1,3",Calculated,Erucic (cis-13),"{""Carbon"":22,""Indices"":[{""Index"":13,""Triple"":false,""Parity"":false}]}",0
+10.1007/s11746-997-0016-1,12,1997-08-01,Glycine,Glycine max,High saturate (Hsat),Triacylglycerol,"1,3",Calculated,Erucic (cis-13),"{""Carbon"":22,""Indices"":[{""Index"":13,""Triple"":false,""Parity"":false}]}",0.0
 10.1007/s11746-997-0016-1,12,1997-08-01,Glycine,Glycine max,High saturate (Hsat),Triacylglycerol,"1,3",Calculated,Lignoceric,"{""Carbon"":24,""Indices"":[]}",0.003
